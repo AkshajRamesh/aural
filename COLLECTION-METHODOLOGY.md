@@ -65,6 +65,8 @@ Implemented in `scripts/analyze-acoustics.py`:
 10. **Flute features.** Detect active 100-ms windows above both a noise-relative and activity-relative threshold. Analyze magnitude FFT of every third active window, with a Hann window, and report medians of spectral centroid, spectral rolloff and strongest peak frequency. These are descriptive and not controlled between musical takes.
 11. **Web convolution assets.** Choose a clap response with a supported fit, crop up to 2.2 s, soft-gate local noise (using a 1.7–0.7 s pre-clap window), fade the tail, resample to 24 kHz and normalize energy. It is suitable for an acoustic *effect proxy*, not as an independent calibrated IR.
 
+When a visitor records or uploads a clip, the site decodes it in the browser, mixes it to mono, and trims leading and trailing silence (pauses inside the clip are kept). At most 12 seconds of the trimmed clip are used. Rendering happens at the clip's sample rate; each 2.2 s room response is resampled to match before it reaches a Web Audio `ConvolverNode` (`normalize = false`). The room-effect slider crossfades dry and wet. Both spaces share one peak-normalisation gain so loudness differences between rooms are preserved. Downloads are 16-bit PCM WAV. Field-recording playback trims silence in memory only; stored files are never modified.
+
 ### Terms and interpretations
 
 - T20/T30: decay-time extrapolations using only a 20/30 dB range. They are **not observed -60 dB decays**.
@@ -86,11 +88,11 @@ A correct measured impulse response would generally use a known excitation (for 
 
 ## 10. Dataset reproducibility
 
-The full analysis was independently reproduced from the 23 original WAV files in a separate copy of the project with a fresh virtual environment. It again produced 13 clap locations, 39 claps and 9 unique flute references. All measurements agreed with the published data within floating-point precision; the 13 web room-response WAVs reproduced byte-for-byte; and the 9 flute MP3 previews reproduced acoustically (identical decoded audio) despite different compressed-file hashes. Exact steps, pinned dependency versions (`requirements-lock.txt`) and the safe separate-directory procedure are in the README, section 12.
+The full analysis was independently reproduced from the 23 original WAV files in a separate copy of the project with a fresh virtual environment. It again produced 13 clap locations, 39 claps and 9 unique flute references. All measurements agreed with the published data within floating-point precision; the 13 web room-response WAVs reproduced byte-for-byte; and the 9 flute MP3 previews reproduced acoustically (identical decoded audio) despite different compressed-file hashes. Exact steps, pinned dependency versions (`requirements-lock.txt`) and the safe separate-directory procedure are in [REPRODUCIBILITY.md](REPRODUCIBILITY.md).
 
 ## Safety and publication
 
-Before publishing original WAV files, audit them for recognizable speech or private conversations. Record and document any required permission. Keep the raw originals if safe, or publish consent-cleared snippets and retain provenance privately if needed. No original recording was fabricated, synthesized or relabeled as another physical location.
+The original recordings are published in `dataset/raw/`. The team reports that they contain no background conversations; this is a team report, not an automated privacy audit. If further recordings are collected, listen for recognizable speech and document any required permission before publishing. No original recording was fabricated, synthesized or relabeled as another physical location.
 
 ## Suggested next collection round
 
