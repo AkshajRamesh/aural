@@ -1,0 +1,1123 @@
+location,location_id,band_hz,time_s,decay_db,replicate_count
+Blocker Corridor,blocker-corridor,broad,0.0,0.0,3
+Blocker Corridor,blocker-corridor,broad,0.05,-1.227863339351924,3
+Blocker Corridor,blocker-corridor,broad,0.1,-2.196442359103886,3
+Blocker Corridor,blocker-corridor,broad,0.15,-2.7752214324422644,3
+Blocker Corridor,blocker-corridor,broad,0.2,-3.250790729119577,3
+Blocker Corridor,blocker-corridor,broad,0.25,-3.8620769392074217,3
+Blocker Corridor,blocker-corridor,broad,0.3,-4.471471253147038,3
+Blocker Corridor,blocker-corridor,broad,0.35,-5.247707051832454,3
+Blocker Corridor,blocker-corridor,broad,0.4,-6.338985946141418,3
+Blocker Corridor,blocker-corridor,broad,0.45,-7.652896904496966,3
+Blocker Corridor,blocker-corridor,broad,0.5,-8.80037058270123,3
+Blocker Corridor,blocker-corridor,broad,0.55,-11.14651151599748,3
+Blocker Corridor,blocker-corridor,broad,0.6,-14.329611383789656,3
+Blocker Corridor,blocker-corridor,broad,0.65,-24.06822985694307,2
+Blocker Corridor,blocker-corridor,125,0.0,0.0,2
+Blocker Corridor,blocker-corridor,125,0.05,-5.486601632310806,2
+Blocker Corridor,blocker-corridor,125,0.1,-6.727249130593568,2
+Blocker Corridor,blocker-corridor,125,0.15,-6.966577143644538,2
+Blocker Corridor,blocker-corridor,125,0.2,-80.74984832007203,2
+Blocker Corridor,blocker-corridor,250,0.0,0.0,3
+Blocker Corridor,blocker-corridor,250,0.05,-5.251306723090325,3
+Blocker Corridor,blocker-corridor,250,0.1,-6.907495545461591,3
+Blocker Corridor,blocker-corridor,250,0.15,-8.640042851854195,3
+Blocker Corridor,blocker-corridor,250,0.2,-12.497763570704755,3
+Blocker Corridor,blocker-corridor,500,0.0,0.0,3
+Blocker Corridor,blocker-corridor,500,0.05,-0.9586990633014109,3
+Blocker Corridor,blocker-corridor,500,0.1,-2.349970062291537,3
+Blocker Corridor,blocker-corridor,500,0.15,-3.1845276454455616,3
+Blocker Corridor,blocker-corridor,500,0.2,-3.9242261115962354,3
+Blocker Corridor,blocker-corridor,500,0.25,-4.468008499651065,3
+Blocker Corridor,blocker-corridor,500,0.3,-5.483399789482452,3
+Blocker Corridor,blocker-corridor,500,0.35,-6.268177000344241,3
+Blocker Corridor,blocker-corridor,500,0.4,-6.798824027644333,3
+Blocker Corridor,blocker-corridor,500,0.45,-7.366891903451763,3
+Blocker Corridor,blocker-corridor,500,0.5,-8.690388948636611,3
+Blocker Corridor,blocker-corridor,500,0.55,-10.16892327891801,3
+Blocker Corridor,blocker-corridor,500,0.6,-11.652574826920421,3
+Blocker Corridor,blocker-corridor,500,0.65,-15.563300912435512,3
+Blocker Corridor,blocker-corridor,500,0.7,-16.897641635640124,1
+Blocker Corridor,blocker-corridor,500,0.75,-28.153578854110734,1
+Blocker Corridor,blocker-corridor,1000,0.0,0.0,3
+Blocker Corridor,blocker-corridor,1000,0.05,-1.0492056752612433,3
+Blocker Corridor,blocker-corridor,1000,0.1,-1.8857842270507574,3
+Blocker Corridor,blocker-corridor,1000,0.15,-2.3016889412505535,3
+Blocker Corridor,blocker-corridor,1000,0.2,-2.771547436359356,3
+Blocker Corridor,blocker-corridor,1000,0.25,-3.340768166374704,3
+Blocker Corridor,blocker-corridor,1000,0.3,-3.8642945653288616,3
+Blocker Corridor,blocker-corridor,1000,0.35,-4.451156049786127,3
+Blocker Corridor,blocker-corridor,1000,0.4,-5.352356205299915,3
+Blocker Corridor,blocker-corridor,1000,0.45,-6.236649903637332,3
+Blocker Corridor,blocker-corridor,1000,0.5,-6.884431728116094,3
+Blocker Corridor,blocker-corridor,1000,0.55,-8.064124790049586,3
+Blocker Corridor,blocker-corridor,1000,0.6,-9.288961468931992,3
+Blocker Corridor,blocker-corridor,1000,0.65,-10.697823587359917,3
+Blocker Corridor,blocker-corridor,1000,0.7,-11.663177985140468,3
+Blocker Corridor,blocker-corridor,1000,0.75,-12.921968117561812,3
+Blocker Corridor,blocker-corridor,1000,0.8,-14.266765251039363,3
+Blocker Corridor,blocker-corridor,1000,0.85,-15.37822693495491,3
+Blocker Corridor,blocker-corridor,1000,0.9,-16.604094222050307,3
+Blocker Corridor,blocker-corridor,1000,0.95,-17.517942148634084,3
+Blocker Corridor,blocker-corridor,1000,1.0,-18.90695077262049,3
+Blocker Corridor,blocker-corridor,1000,1.05,-20.43997397867608,3
+Blocker Corridor,blocker-corridor,1000,1.1,-21.573563614685543,3
+Blocker Corridor,blocker-corridor,1000,1.15,-22.885040077237473,3
+Blocker Corridor,blocker-corridor,1000,1.2,-24.539647873193672,3
+Blocker Corridor,blocker-corridor,1000,1.25,-26.310427318308122,3
+Blocker Corridor,blocker-corridor,1000,1.3,-28.9644142285314,2
+Blocker Corridor,blocker-corridor,1000,1.35,-32.07160617845425,2
+Blocker Corridor,blocker-corridor,1000,1.4,-32.99958685016333,1
+Blocker Corridor,blocker-corridor,2000,0.0,0.0,3
+Blocker Corridor,blocker-corridor,2000,0.05,-0.9911927812890363,3
+Blocker Corridor,blocker-corridor,2000,0.1,-1.905141475092908,3
+Blocker Corridor,blocker-corridor,2000,0.15,-2.456681882453913,3
+Blocker Corridor,blocker-corridor,2000,0.2,-2.7459311202797188,3
+Blocker Corridor,blocker-corridor,2000,0.25,-3.181981443322231,3
+Blocker Corridor,blocker-corridor,2000,0.3,-3.6500882505570043,3
+Blocker Corridor,blocker-corridor,2000,0.35,-4.299312752515326,3
+Blocker Corridor,blocker-corridor,2000,0.4,-5.0773005480165025,3
+Blocker Corridor,blocker-corridor,2000,0.45,-6.1451516230755,3
+Blocker Corridor,blocker-corridor,2000,0.5,-6.923245773935223,3
+Blocker Corridor,blocker-corridor,2000,0.55,-8.399069308588258,3
+Blocker Corridor,blocker-corridor,2000,0.6,-9.721721955345796,3
+Blocker Corridor,blocker-corridor,2000,0.65,-10.768724163842599,3
+Blocker Corridor,blocker-corridor,2000,0.7,-12.060127352865848,3
+Blocker Corridor,blocker-corridor,2000,0.75,-13.039593394349328,3
+Blocker Corridor,blocker-corridor,2000,0.8,-14.37103914609578,3
+Blocker Corridor,blocker-corridor,2000,0.85,-15.656145395308638,3
+Blocker Corridor,blocker-corridor,2000,0.9,-16.62738831934676,3
+Blocker Corridor,blocker-corridor,2000,0.95,-17.798146534599596,3
+Blocker Corridor,blocker-corridor,2000,1.0,-19.537368650343584,3
+Blocker Corridor,blocker-corridor,2000,1.05,-20.545299076754663,3
+Blocker Corridor,blocker-corridor,2000,1.1,-21.790038038817844,3
+Blocker Corridor,blocker-corridor,2000,1.15,-23.842844427032322,3
+Blocker Corridor,blocker-corridor,2000,1.2,-25.328771276577918,3
+Blocker Corridor,blocker-corridor,2000,1.25,-26.365871992255734,3
+Blocker Corridor,blocker-corridor,2000,1.3,-28.4437472095752,3
+Blocker Corridor,blocker-corridor,2000,1.35,-30.178906098704594,3
+Blocker Corridor,blocker-corridor,2000,1.4,-32.15325573838015,3
+Blocker Corridor,blocker-corridor,2000,1.45,-35.68233414596339,3
+Blocker Corridor,blocker-corridor,2000,1.5,-38.44719300716285,2
+Blocker Corridor,blocker-corridor,2000,1.55,-35.818985006005235,1
+Blocker Corridor,blocker-corridor,2000,1.6,-39.90098650848239,1
+Blocker Corridor,blocker-corridor,4000,0.0,0.0,3
+Blocker Corridor,blocker-corridor,4000,0.05,-1.9032106887190139,3
+Blocker Corridor,blocker-corridor,4000,0.1,-3.0189952376694573,3
+Blocker Corridor,blocker-corridor,4000,0.15,-3.883932938445796,3
+Blocker Corridor,blocker-corridor,4000,0.2,-4.525956579689992,3
+Blocker Corridor,blocker-corridor,4000,0.25,-5.107131989854027,3
+Blocker Corridor,blocker-corridor,4000,0.3,-5.670186723563277,3
+Blocker Corridor,blocker-corridor,4000,0.35,-6.521452948469211,3
+Blocker Corridor,blocker-corridor,4000,0.4,-7.392929118692586,3
+Blocker Corridor,blocker-corridor,4000,0.45,-8.366294362882785,3
+Blocker Corridor,blocker-corridor,4000,0.5,-9.591509899959261,3
+Blocker Corridor,blocker-corridor,4000,0.55,-10.723127832954301,3
+Blocker Corridor,blocker-corridor,4000,0.6,-12.236421795126478,3
+Blocker Corridor,blocker-corridor,4000,0.65,-13.87538926844451,3
+Blocker Corridor,blocker-corridor,4000,0.7,-15.43453102359123,3
+Blocker Corridor,blocker-corridor,4000,0.75,-16.994968198667237,3
+Blocker Corridor,blocker-corridor,4000,0.8,-18.516954804425957,3
+Blocker Corridor,blocker-corridor,4000,0.85,-19.91116766921028,3
+Blocker Corridor,blocker-corridor,4000,0.9,-21.7146392265693,3
+Blocker Corridor,blocker-corridor,4000,0.95,-23.56291686589704,3
+Blocker Corridor,blocker-corridor,4000,1.0,-25.736141818175625,3
+Blocker Corridor,blocker-corridor,4000,1.05,-28.25484967732089,3
+Blocker Corridor,blocker-corridor,4000,1.1,-30.84313842173222,2
+Blocker Corridor,blocker-corridor,4000,1.15,-33.54607123964776,1
+Blocker Staircase,blocker-staircase,broad,0.0,0.0,3
+Blocker Staircase,blocker-staircase,broad,0.05,-2.5443365822423987,3
+Blocker Staircase,blocker-staircase,broad,0.1,-5.549733997688073,3
+Blocker Staircase,blocker-staircase,broad,0.15,-7.848992619196731,3
+Blocker Staircase,blocker-staircase,broad,0.2,-10.613797830261271,3
+Blocker Staircase,blocker-staircase,broad,0.25,-12.905208540918318,3
+Blocker Staircase,blocker-staircase,broad,0.3,-15.338101281519414,3
+Blocker Staircase,blocker-staircase,broad,0.35,-17.14642116503983,3
+Blocker Staircase,blocker-staircase,broad,0.4,-20.115150510790265,3
+Blocker Staircase,blocker-staircase,broad,0.45,-22.7245399527691,3
+Blocker Staircase,blocker-staircase,broad,0.5,-25.691060865251384,3
+Blocker Staircase,blocker-staircase,broad,0.55,-26.1443470968645,2
+Blocker Staircase,blocker-staircase,broad,0.6,-24.458300565082823,1
+Blocker Staircase,blocker-staircase,broad,0.65,-27.173746551889508,1
+Blocker Staircase,blocker-staircase,broad,0.7,-31.471524424152413,1
+Blocker Staircase,blocker-staircase,broad,0.75,-39.31628087581626,1
+Blocker Staircase,blocker-staircase,125,0.0,0.0,3
+Blocker Staircase,blocker-staircase,125,0.05,-6.741052845367179,3
+Blocker Staircase,blocker-staircase,125,0.1,-12.128624548148245,3
+Blocker Staircase,blocker-staircase,125,0.15,-19.24609230982895,3
+Blocker Staircase,blocker-staircase,125,0.2,-24.90525552573777,3
+Blocker Staircase,blocker-staircase,250,0.0,0.0,3
+Blocker Staircase,blocker-staircase,250,0.05,-4.5576240860510495,3
+Blocker Staircase,blocker-staircase,250,0.1,-8.632082283015166,3
+Blocker Staircase,blocker-staircase,250,0.15,-11.224070317766872,3
+Blocker Staircase,blocker-staircase,250,0.2,-15.090666809187931,3
+Blocker Staircase,blocker-staircase,250,0.25,-16.80691016525632,2
+Blocker Staircase,blocker-staircase,250,0.3,-17.214557167418683,1
+Blocker Staircase,blocker-staircase,250,0.35,-20.28666620180354,1
+Blocker Staircase,blocker-staircase,500,0.0,0.0,3
+Blocker Staircase,blocker-staircase,500,0.05,-2.411411529426994,3
+Blocker Staircase,blocker-staircase,500,0.1,-5.3327505765848695,3
+Blocker Staircase,blocker-staircase,500,0.15,-7.943408046210486,3
+Blocker Staircase,blocker-staircase,500,0.2,-10.278249166540485,3
+Blocker Staircase,blocker-staircase,500,0.25,-12.566668590808712,3
+Blocker Staircase,blocker-staircase,500,0.3,-14.81052717699365,3
+Blocker Staircase,blocker-staircase,500,0.35,-16.637382361659984,3
+Blocker Staircase,blocker-staircase,500,0.4,-19.277719911993767,3
+Blocker Staircase,blocker-staircase,500,0.45,-21.9204364693464,3
+Blocker Staircase,blocker-staircase,500,0.5,-26.959570569219157,3
+Blocker Staircase,blocker-staircase,500,0.55,-28.06582174069124,2
+Blocker Staircase,blocker-staircase,500,0.6,-26.442033530566587,1
+Blocker Staircase,blocker-staircase,500,0.65,-30.08006065052596,1
+Blocker Staircase,blocker-staircase,1000,0.0,0.0,3
+Blocker Staircase,blocker-staircase,1000,0.05,-2.4180337836046943,3
+Blocker Staircase,blocker-staircase,1000,0.1,-4.918299743043707,3
+Blocker Staircase,blocker-staircase,1000,0.15,-7.269013655504383,3
+Blocker Staircase,blocker-staircase,1000,0.2,-9.824157050842059,3
+Blocker Staircase,blocker-staircase,1000,0.25,-11.993035942044292,3
+Blocker Staircase,blocker-staircase,1000,0.3,-13.622920821884149,3
+Blocker Staircase,blocker-staircase,1000,0.35,-14.985254330881817,3
+Blocker Staircase,blocker-staircase,1000,0.4,-16.993760028525532,3
+Blocker Staircase,blocker-staircase,1000,0.45,-18.640618438340667,3
+Blocker Staircase,blocker-staircase,1000,0.5,-19.929805581585793,3
+Blocker Staircase,blocker-staircase,1000,0.55,-21.128688785918634,3
+Blocker Staircase,blocker-staircase,1000,0.6,-22.689312645345744,3
+Blocker Staircase,blocker-staircase,1000,0.65,-23.917371261278177,3
+Blocker Staircase,blocker-staircase,1000,0.7,-26.286453621079968,3
+Blocker Staircase,blocker-staircase,1000,0.75,-28.296606191142367,3
+Blocker Staircase,blocker-staircase,1000,0.8,-30.021288879393847,3
+Blocker Staircase,blocker-staircase,1000,0.85,-31.236184888026123,3
+Blocker Staircase,blocker-staircase,1000,0.9,-33.15741774270782,3
+Blocker Staircase,blocker-staircase,1000,0.95,-35.03915883764442,3
+Blocker Staircase,blocker-staircase,1000,1.0,-37.862865202063766,3
+Blocker Staircase,blocker-staircase,1000,1.05,-37.84345290376238,2
+Blocker Staircase,blocker-staircase,1000,1.1,-41.13854860202093,2
+Blocker Staircase,blocker-staircase,2000,0.0,0.0,3
+Blocker Staircase,blocker-staircase,2000,0.05,-2.378310665736272,3
+Blocker Staircase,blocker-staircase,2000,0.1,-5.75776647624437,3
+Blocker Staircase,blocker-staircase,2000,0.15,-8.196265165846834,3
+Blocker Staircase,blocker-staircase,2000,0.2,-10.62408280473248,3
+Blocker Staircase,blocker-staircase,2000,0.25,-12.651087913644528,3
+Blocker Staircase,blocker-staircase,2000,0.3,-15.306865407974273,3
+Blocker Staircase,blocker-staircase,2000,0.35,-17.46909998090756,3
+Blocker Staircase,blocker-staircase,2000,0.4,-19.395328555333545,3
+Blocker Staircase,blocker-staircase,2000,0.45,-20.93604518336859,3
+Blocker Staircase,blocker-staircase,2000,0.5,-22.31386824749826,3
+Blocker Staircase,blocker-staircase,2000,0.55,-23.70089464821141,3
+Blocker Staircase,blocker-staircase,2000,0.6,-24.983911222512848,3
+Blocker Staircase,blocker-staircase,2000,0.65,-26.20130122685419,3
+Blocker Staircase,blocker-staircase,2000,0.7,-27.711906757866558,3
+Blocker Staircase,blocker-staircase,2000,0.75,-29.354240682028518,3
+Blocker Staircase,blocker-staircase,2000,0.8,-31.32567398203056,3
+Blocker Staircase,blocker-staircase,2000,0.85,-33.007746793746655,3
+Blocker Staircase,blocker-staircase,2000,0.9,-34.79922302220757,3
+Blocker Staircase,blocker-staircase,2000,0.95,-37.01806453221081,3
+Blocker Staircase,blocker-staircase,2000,1.0,-39.286656874263166,3
+Blocker Staircase,blocker-staircase,2000,1.05,-38.94648808915625,2
+Blocker Staircase,blocker-staircase,2000,1.1,-41.02831846062574,2
+Blocker Staircase,blocker-staircase,2000,1.15,-43.58509000940575,2
+Blocker Staircase,blocker-staircase,2000,1.2,-46.846013578516036,2
+Blocker Staircase,blocker-staircase,2000,1.25,-50.67481087662864,2
+Blocker Staircase,blocker-staircase,2000,1.3,-56.778541429035315,1
+Blocker Staircase,blocker-staircase,4000,0.0,0.0,3
+Blocker Staircase,blocker-staircase,4000,0.05,-2.4983265746357515,3
+Blocker Staircase,blocker-staircase,4000,0.1,-6.204738318044471,3
+Blocker Staircase,blocker-staircase,4000,0.15,-9.588161068473925,3
+Blocker Staircase,blocker-staircase,4000,0.2,-12.557296723810508,3
+Blocker Staircase,blocker-staircase,4000,0.25,-15.503409890019938,3
+Blocker Staircase,blocker-staircase,4000,0.3,-18.020607393493332,3
+Blocker Staircase,blocker-staircase,4000,0.35,-20.17445761330635,3
+Blocker Staircase,blocker-staircase,4000,0.4,-22.424684402529063,3
+Blocker Staircase,blocker-staircase,4000,0.45,-24.53221229199383,3
+Blocker Staircase,blocker-staircase,4000,0.5,-26.400626073619637,3
+Blocker Staircase,blocker-staircase,4000,0.55,-28.187688256678047,3
+Blocker Staircase,blocker-staircase,4000,0.6,-30.080208120381943,3
+Blocker Staircase,blocker-staircase,4000,0.65,-31.82529347908076,3
+Blocker Staircase,blocker-staircase,4000,0.7,-33.42744876301241,3
+Blocker Staircase,blocker-staircase,4000,0.75,-35.06063919447327,3
+Blocker Staircase,blocker-staircase,4000,0.8,-37.28422900803547,2
+Blocker Staircase,blocker-staircase,4000,0.85,-40.084330886964494,2
+Blocker Staircase,blocker-staircase,4000,0.9,-43.12740753688091,2
+Blocker Staircase,blocker-staircase,4000,0.95,-45.631513111131106,1
+Blocker Staircase,blocker-staircase,4000,1.0,-49.81003826973482,1
+Blocker Staircase,blocker-staircase,4000,1.05,-58.91773166303861,1
+Control Bathroom,control-bathroom,broad,0.0,0.0,3
+Control Bathroom,control-bathroom,broad,0.05,-5.8406319283399775,3
+Control Bathroom,control-bathroom,broad,0.1,-13.254057641185904,3
+Control Bathroom,control-bathroom,broad,0.15,-18.82438740322195,3
+Control Bathroom,control-bathroom,broad,0.2,-22.635698040340625,3
+Control Bathroom,control-bathroom,broad,0.25,-28.88960934912829,3
+Control Bathroom,control-bathroom,broad,0.3,-35.297418428933085,3
+Control Bathroom,control-bathroom,broad,0.35,-36.613419755573005,2
+Control Bathroom,control-bathroom,broad,0.4,-43.09379887128741,2
+Control Bathroom,control-bathroom,broad,0.45,-52.159291189412265,1
+Control Bathroom,control-bathroom,125,0.0,0.0,3
+Control Bathroom,control-bathroom,125,0.05,-12.055131757700808,3
+Control Bathroom,control-bathroom,125,0.1,-26.05801802810352,3
+Control Bathroom,control-bathroom,125,0.15,-35.601394989865696,3
+Control Bathroom,control-bathroom,125,0.2,-45.60664037397559,3
+Control Bathroom,control-bathroom,250,0.0,0.0,3
+Control Bathroom,control-bathroom,250,0.05,-7.052338639570387,3
+Control Bathroom,control-bathroom,250,0.1,-14.033576553327656,3
+Control Bathroom,control-bathroom,250,0.15,-19.86819384606757,3
+Control Bathroom,control-bathroom,250,0.2,-24.01199998010839,3
+Control Bathroom,control-bathroom,250,0.25,-24.32367173362714,2
+Control Bathroom,control-bathroom,250,0.3,-29.06851010978285,2
+Control Bathroom,control-bathroom,250,0.35,-42.85489818959875,1
+Control Bathroom,control-bathroom,500,0.0,0.0,3
+Control Bathroom,control-bathroom,500,0.05,-3.7568735923797556,3
+Control Bathroom,control-bathroom,500,0.1,-10.44828402044412,3
+Control Bathroom,control-bathroom,500,0.15,-16.757391366472888,3
+Control Bathroom,control-bathroom,500,0.2,-21.584499222477728,3
+Control Bathroom,control-bathroom,500,0.25,-25.848008246841868,3
+Control Bathroom,control-bathroom,500,0.3,-33.65141129116184,3
+Control Bathroom,control-bathroom,500,0.35,-34.80611228079091,2
+Control Bathroom,control-bathroom,500,0.4,-42.16587832732718,2
+Control Bathroom,control-bathroom,500,0.45,-52.91820736989991,1
+Control Bathroom,control-bathroom,1000,0.0,0.0,3
+Control Bathroom,control-bathroom,1000,0.05,-4.888903274868613,3
+Control Bathroom,control-bathroom,1000,0.1,-10.517576245679086,3
+Control Bathroom,control-bathroom,1000,0.15,-15.92904876482959,3
+Control Bathroom,control-bathroom,1000,0.2,-20.724799744472307,3
+Control Bathroom,control-bathroom,1000,0.25,-27.97533092615357,3
+Control Bathroom,control-bathroom,1000,0.3,-33.77048156585437,3
+Control Bathroom,control-bathroom,1000,0.35,-40.117304042851686,3
+Control Bathroom,control-bathroom,1000,0.4,-46.80266986585981,3
+Control Bathroom,control-bathroom,1000,0.45,-45.06988304318836,2
+Control Bathroom,control-bathroom,1000,0.5,-50.308252476917644,2
+Control Bathroom,control-bathroom,1000,0.55,-62.07501966786708,2
+Control Bathroom,control-bathroom,2000,0.0,0.0,3
+Control Bathroom,control-bathroom,2000,0.05,-5.7713117629200195,3
+Control Bathroom,control-bathroom,2000,0.1,-14.349130064772933,3
+Control Bathroom,control-bathroom,2000,0.15,-20.253051878113624,3
+Control Bathroom,control-bathroom,2000,0.2,-25.37657506061135,3
+Control Bathroom,control-bathroom,2000,0.25,-31.80148646154596,3
+Control Bathroom,control-bathroom,2000,0.3,-37.54565572355153,3
+Control Bathroom,control-bathroom,2000,0.35,-43.6722600565514,3
+Control Bathroom,control-bathroom,2000,0.4,-49.082246166089256,3
+Control Bathroom,control-bathroom,2000,0.45,-49.38179352850207,2
+Control Bathroom,control-bathroom,2000,0.5,-54.97823224883065,2
+Control Bathroom,control-bathroom,2000,0.55,-57.738453679757214,1
+Control Bathroom,control-bathroom,4000,0.0,0.0,3
+Control Bathroom,control-bathroom,4000,0.05,-7.037574966040116,3
+Control Bathroom,control-bathroom,4000,0.1,-16.204246998697304,3
+Control Bathroom,control-bathroom,4000,0.15,-23.23186544193473,3
+Control Bathroom,control-bathroom,4000,0.2,-28.697213896245298,3
+Control Bathroom,control-bathroom,4000,0.25,-34.92014636429102,3
+Control Bathroom,control-bathroom,4000,0.3,-40.93693406239585,3
+Control Bathroom,control-bathroom,4000,0.35,-38.83170572408079,2
+Control Bathroom,control-bathroom,4000,0.4,-44.87579767049394,2
+Control Bathroom,control-bathroom,4000,0.45,-44.1095754204219,1
+Control Room,control-room,broad,0.0,0.0,3
+Control Room,control-room,broad,0.05,-3.4984824594802633,3
+Control Room,control-room,broad,0.1,-9.01946927291055,3
+Control Room,control-room,broad,0.15,-14.080037624531537,3
+Control Room,control-room,broad,0.2,-18.308455977901655,3
+Control Room,control-room,broad,0.25,-22.51827455413126,3
+Control Room,control-room,broad,0.3,-26.544677445103638,3
+Control Room,control-room,broad,0.35,-29.79947655986442,3
+Control Room,control-room,broad,0.4,-31.98125002986041,2
+Control Room,control-room,broad,0.45,-34.830413261437435,2
+Control Room,control-room,broad,0.5,-38.13682327691634,2
+Control Room,control-room,broad,0.55,-38.5695957154619,1
+Control Room,control-room,broad,0.6,-40.732820412301784,1
+Control Room,control-room,broad,0.65,-43.265659339766025,1
+Control Room,control-room,broad,0.7,-45.66419216513414,1
+Control Room,control-room,broad,0.75,-48.77295353127589,1
+Control Room,control-room,broad,0.8,-55.309521576349155,1
+Control Room,control-room,125,0.0,0.0,3
+Control Room,control-room,125,0.05,-6.347270180805308,3
+Control Room,control-room,125,0.1,-16.54693186187493,3
+Control Room,control-room,125,0.15,-23.68396959619668,3
+Control Room,control-room,125,0.2,-160.0,3
+Control Room,control-room,250,0.0,0.0,3
+Control Room,control-room,250,0.05,-3.0091832497575672,3
+Control Room,control-room,250,0.1,-9.566619369256752,3
+Control Room,control-room,250,0.15,-16.350431118404074,3
+Control Room,control-room,250,0.2,-24.133044668913236,3
+Control Room,control-room,250,0.25,-27.274956380173386,1
+Control Room,control-room,250,0.3,-31.063950749834078,1
+Control Room,control-room,250,0.35,-35.93087956018511,1
+Control Room,control-room,500,0.0,0.0,3
+Control Room,control-room,500,0.05,-2.0676069025605948,3
+Control Room,control-room,500,0.1,-7.32933762528973,3
+Control Room,control-room,500,0.15,-12.569508213088692,3
+Control Room,control-room,500,0.2,-18.556440670969483,3
+Control Room,control-room,500,0.25,-24.704222621801044,3
+Control Room,control-room,500,0.3,-28.726793561020305,3
+Control Room,control-room,500,0.35,-33.94750686452583,3
+Control Room,control-room,500,0.4,-40.76290344415533,2
+Control Room,control-room,500,0.45,-43.98514190428227,1
+Control Room,control-room,500,0.5,-47.36380783452145,1
+Control Room,control-room,500,0.55,-57.26354751550943,1
+Control Room,control-room,1000,0.0,0.0,3
+Control Room,control-room,1000,0.05,-3.0234459292479436,3
+Control Room,control-room,1000,0.1,-8.854177279042677,3
+Control Room,control-room,1000,0.15,-13.259511915787204,3
+Control Room,control-room,1000,0.2,-17.722612360850732,3
+Control Room,control-room,1000,0.25,-21.709489788211588,3
+Control Room,control-room,1000,0.3,-25.512472454967337,3
+Control Room,control-room,1000,0.35,-29.277202810206138,3
+Control Room,control-room,1000,0.4,-32.25690339156818,3
+Control Room,control-room,1000,0.45,-35.867092541955095,3
+Control Room,control-room,1000,0.5,-38.93274872271395,3
+Control Room,control-room,1000,0.55,-41.770759759183676,3
+Control Room,control-room,1000,0.6,-44.29199606719268,2
+Control Room,control-room,1000,0.65,-47.382653866023546,2
+Control Room,control-room,1000,0.7,-48.248326894111244,1
+Control Room,control-room,1000,0.75,-50.999337102121046,1
+Control Room,control-room,1000,0.8,-53.69546884819403,1
+Control Room,control-room,1000,0.85,-57.22689666038112,1
+Control Room,control-room,1000,0.9,-61.415185227664836,1
+Control Room,control-room,2000,0.0,0.0,3
+Control Room,control-room,2000,0.05,-3.6963272812580286,3
+Control Room,control-room,2000,0.1,-9.36082999326847,3
+Control Room,control-room,2000,0.15,-14.28277999946646,3
+Control Room,control-room,2000,0.2,-18.20466791316815,3
+Control Room,control-room,2000,0.25,-22.412217108936822,3
+Control Room,control-room,2000,0.3,-25.81810317762077,3
+Control Room,control-room,2000,0.35,-28.319332260802618,3
+Control Room,control-room,2000,0.4,-30.71171376894686,3
+Control Room,control-room,2000,0.45,-32.97403021928649,3
+Control Room,control-room,2000,0.5,-34.87340377122062,3
+Control Room,control-room,2000,0.55,-37.054053168529265,3
+Control Room,control-room,2000,0.6,-39.28437701479235,3
+Control Room,control-room,2000,0.65,-39.570735014515336,2
+Control Room,control-room,2000,0.7,-41.29104294540421,2
+Control Room,control-room,2000,0.75,-43.19655160706711,2
+Control Room,control-room,2000,0.8,-45.33914805172721,2
+Control Room,control-room,2000,0.85,-47.4923145423253,2
+Control Room,control-room,2000,0.9,-49.87709406688036,2
+Control Room,control-room,2000,0.95,-53.61260080622995,2
+Control Room,control-room,2000,1.0,-46.50849568212962,1
+Control Room,control-room,2000,1.05,-47.93819015417433,1
+Control Room,control-room,2000,1.1,-50.43787516777967,1
+Control Room,control-room,2000,1.15,-55.313489162265725,1
+Control Room,control-room,4000,0.0,0.0,3
+Control Room,control-room,4000,0.05,-3.303842695528783,3
+Control Room,control-room,4000,0.1,-8.111912449353225,3
+Control Room,control-room,4000,0.15,-12.855011776841797,3
+Control Room,control-room,4000,0.2,-17.032945647807068,3
+Control Room,control-room,4000,0.25,-20.708574188560426,3
+Control Room,control-room,4000,0.3,-23.716006761166376,3
+Control Room,control-room,4000,0.35,-26.162050881501226,3
+Control Room,control-room,4000,0.4,-27.913763182126345,3
+Control Room,control-room,4000,0.45,-28.886522734675424,3
+Control Room,control-room,4000,0.5,-30.015430634836108,3
+Control Room,control-room,4000,0.55,-31.51739092412821,3
+Control Room,control-room,4000,0.6,-33.22012684934488,3
+Control Room,control-room,4000,0.65,-35.262941418177995,3
+Control Room,control-room,4000,0.7,-36.50632010152151,2
+Control Room,control-room,4000,0.75,-38.09935534318062,2
+Control Room,control-room,4000,0.8,-40.13568820226867,2
+Control Room,control-room,4000,0.85,-43.64767855520101,2
+Control Room,control-room,4000,0.9,-45.29374594700714,1
+Control Room,control-room,4000,0.95,-48.084656746898055,1
+Control Room,control-room,4000,1.0,-50.148075360828486,1
+Control Room,control-room,4000,1.05,-52.03958694884235,1
+Control Room,control-room,4000,1.1,-55.95442347037234,1
+Koldus Stairwell,koldus-stairwell,broad,0.0,0.0,3
+Koldus Stairwell,koldus-stairwell,broad,0.05,-4.86330760435381,3
+Koldus Stairwell,koldus-stairwell,broad,0.1,-8.678022734367541,3
+Koldus Stairwell,koldus-stairwell,broad,0.15,-11.57232649160031,3
+Koldus Stairwell,koldus-stairwell,broad,0.2,-14.72990888387826,3
+Koldus Stairwell,koldus-stairwell,125,0.0,0.0,1
+Koldus Stairwell,koldus-stairwell,125,0.05,-160.0,1
+Koldus Stairwell,koldus-stairwell,125,0.1,-160.0,1
+Koldus Stairwell,koldus-stairwell,125,0.15,-160.0,1
+Koldus Stairwell,koldus-stairwell,125,0.2,-160.0,1
+Koldus Stairwell,koldus-stairwell,250,0.0,0.0,3
+Koldus Stairwell,koldus-stairwell,250,0.05,-4.120696946420531,3
+Koldus Stairwell,koldus-stairwell,250,0.1,-13.09975210810318,3
+Koldus Stairwell,koldus-stairwell,250,0.15,-13.959451211144671,3
+Koldus Stairwell,koldus-stairwell,250,0.2,-28.73279393120114,3
+Koldus Stairwell,koldus-stairwell,500,0.0,0.0,3
+Koldus Stairwell,koldus-stairwell,500,0.05,-2.6757556187768463,3
+Koldus Stairwell,koldus-stairwell,500,0.1,-6.462338992954493,3
+Koldus Stairwell,koldus-stairwell,500,0.15,-9.112811624303278,3
+Koldus Stairwell,koldus-stairwell,500,0.2,-11.644289870391315,3
+Koldus Stairwell,koldus-stairwell,1000,0.0,0.0,3
+Koldus Stairwell,koldus-stairwell,1000,0.05,-3.1991246271802125,3
+Koldus Stairwell,koldus-stairwell,1000,0.1,-4.386981384521213,3
+Koldus Stairwell,koldus-stairwell,1000,0.15,-5.514851409243929,3
+Koldus Stairwell,koldus-stairwell,1000,0.2,-6.681286921137182,3
+Koldus Stairwell,koldus-stairwell,1000,0.25,-7.9344833695236625,3
+Koldus Stairwell,koldus-stairwell,1000,0.3,-9.65886850478908,3
+Koldus Stairwell,koldus-stairwell,1000,0.35,-11.505349921254808,3
+Koldus Stairwell,koldus-stairwell,1000,0.4,-15.063350463529535,3
+Koldus Stairwell,koldus-stairwell,1000,0.45,-17.648084999625404,2
+Koldus Stairwell,koldus-stairwell,1000,0.5,-21.307019009171213,2
+Koldus Stairwell,koldus-stairwell,1000,0.55,-27.664876261530225,2
+Koldus Stairwell,koldus-stairwell,2000,0.0,0.0,3
+Koldus Stairwell,koldus-stairwell,2000,0.05,-1.845468984996244,3
+Koldus Stairwell,koldus-stairwell,2000,0.1,-2.971177646190388,3
+Koldus Stairwell,koldus-stairwell,2000,0.15,-3.631014018448432,3
+Koldus Stairwell,koldus-stairwell,2000,0.2,-4.145043575436594,3
+Koldus Stairwell,koldus-stairwell,2000,0.25,-4.738159722197993,3
+Koldus Stairwell,koldus-stairwell,2000,0.3,-5.694324934316145,3
+Koldus Stairwell,koldus-stairwell,2000,0.35,-7.330351520155139,3
+Koldus Stairwell,koldus-stairwell,2000,0.4,-10.290691455376539,3
+Koldus Stairwell,koldus-stairwell,2000,0.45,-12.970941493924375,3
+Koldus Stairwell,koldus-stairwell,2000,0.5,-15.102014663050722,3
+Koldus Stairwell,koldus-stairwell,2000,0.55,-17.30835210514683,3
+Koldus Stairwell,koldus-stairwell,2000,0.6,-20.420034195164334,3
+Koldus Stairwell,koldus-stairwell,2000,0.65,-21.695384968853006,2
+Koldus Stairwell,koldus-stairwell,2000,0.7,-26.371211902307383,2
+Koldus Stairwell,koldus-stairwell,2000,0.75,-27.543736947245748,1
+Koldus Stairwell,koldus-stairwell,4000,0.0,0.0,3
+Koldus Stairwell,koldus-stairwell,4000,0.05,-3.746191701893105,3
+Koldus Stairwell,koldus-stairwell,4000,0.1,-4.9397328230950155,3
+Koldus Stairwell,koldus-stairwell,4000,0.15,-5.761789373496965,3
+Koldus Stairwell,koldus-stairwell,4000,0.2,-6.495652042174923,3
+Koldus Stairwell,koldus-stairwell,4000,0.25,-7.447148256205029,3
+Koldus Stairwell,koldus-stairwell,4000,0.3,-8.879228504939043,3
+Koldus Stairwell,koldus-stairwell,4000,0.35,-10.712313197144347,3
+Koldus Stairwell,koldus-stairwell,4000,0.4,-13.038957339167087,3
+Koldus Stairwell,koldus-stairwell,4000,0.45,-15.491854317564886,3
+Koldus Stairwell,koldus-stairwell,4000,0.5,-18.402657421211085,3
+Koldus Stairwell,koldus-stairwell,4000,0.55,-21.258746409109243,3
+Koldus Stairwell,koldus-stairwell,4000,0.6,-21.957824366406452,2
+Koldus Stairwell,koldus-stairwell,4000,0.65,-25.932537529869276,2
+Koldus Stairwell,koldus-stairwell,4000,0.7,-24.3595111670429,1
+Koldus Stairwell,koldus-stairwell,4000,0.75,-29.416934784226584,1
+Langford Atrium,langford-atrium,broad,0.0,0.0,3
+Langford Atrium,langford-atrium,broad,0.05,-2.07261276623953,3
+Langford Atrium,langford-atrium,broad,0.1,-5.017736823549152,3
+Langford Atrium,langford-atrium,broad,0.15,-7.463827298303315,3
+Langford Atrium,langford-atrium,broad,0.2,-10.577125693247778,3
+Langford Atrium,langford-atrium,broad,0.25,-10.543819968687474,2
+Langford Atrium,langford-atrium,broad,0.3,-14.009182055777378,2
+Langford Atrium,langford-atrium,broad,0.35,-11.229573064272495,1
+Langford Atrium,langford-atrium,broad,0.4,-13.90063375190108,1
+Langford Atrium,langford-atrium,broad,0.45,-16.914074415185368,1
+Langford Atrium,langford-atrium,broad,0.5,-20.74575550583804,1
+Langford Atrium,langford-atrium,125,0.0,0.0,2
+Langford Atrium,langford-atrium,125,0.05,-82.86446822601346,2
+Langford Atrium,langford-atrium,125,0.1,-83.80042448731025,2
+Langford Atrium,langford-atrium,125,0.15,-84.64574813218344,2
+Langford Atrium,langford-atrium,125,0.2,-84.72821704710456,2
+Langford Atrium,langford-atrium,250,0.0,0.0,3
+Langford Atrium,langford-atrium,250,0.05,-1.379419909655465,3
+Langford Atrium,langford-atrium,250,0.1,-5.022860413905619,3
+Langford Atrium,langford-atrium,250,0.15,-10.621667023575236,3
+Langford Atrium,langford-atrium,250,0.2,-17.577862377483587,3
+Langford Atrium,langford-atrium,500,0.0,0.0,3
+Langford Atrium,langford-atrium,500,0.05,-0.8846739416991188,3
+Langford Atrium,langford-atrium,500,0.1,-2.304078903313627,3
+Langford Atrium,langford-atrium,500,0.15,-3.231235806981521,3
+Langford Atrium,langford-atrium,500,0.2,-4.7228526971982685,3
+Langford Atrium,langford-atrium,500,0.25,-5.9511712351230415,3
+Langford Atrium,langford-atrium,500,0.3,-7.255079155899753,3
+Langford Atrium,langford-atrium,500,0.35,-8.773745521792799,3
+Langford Atrium,langford-atrium,500,0.4,-10.48423052934903,2
+Langford Atrium,langford-atrium,500,0.45,-14.984918105394396,2
+Langford Atrium,langford-atrium,500,0.5,-14.625810891451893,1
+Langford Atrium,langford-atrium,1000,0.0,0.0,3
+Langford Atrium,langford-atrium,1000,0.05,-1.4601745684300758,3
+Langford Atrium,langford-atrium,1000,0.1,-3.178871016586121,3
+Langford Atrium,langford-atrium,1000,0.15,-4.21377183003776,3
+Langford Atrium,langford-atrium,1000,0.2,-5.635458475556287,3
+Langford Atrium,langford-atrium,1000,0.25,-6.598868547250815,3
+Langford Atrium,langford-atrium,1000,0.3,-8.046427846237345,3
+Langford Atrium,langford-atrium,1000,0.35,-9.393692076015878,3
+Langford Atrium,langford-atrium,1000,0.4,-11.806269671719958,3
+Langford Atrium,langford-atrium,1000,0.45,-13.843450671641197,3
+Langford Atrium,langford-atrium,1000,0.5,-15.77042469646322,3
+Langford Atrium,langford-atrium,1000,0.55,-16.987254967782306,3
+Langford Atrium,langford-atrium,1000,0.6,-17.99100293391427,3
+Langford Atrium,langford-atrium,1000,0.65,-19.742966490202004,3
+Langford Atrium,langford-atrium,1000,0.7,-22.68894150592168,3
+Langford Atrium,langford-atrium,1000,0.75,-24.29615299766641,1
+Langford Atrium,langford-atrium,1000,0.8,-28.59307546330649,1
+Langford Atrium,langford-atrium,2000,0.0,0.0,3
+Langford Atrium,langford-atrium,2000,0.05,-1.8285206840988313,3
+Langford Atrium,langford-atrium,2000,0.1,-4.658474260314485,3
+Langford Atrium,langford-atrium,2000,0.15,-6.12970893607551,3
+Langford Atrium,langford-atrium,2000,0.2,-7.624133762773351,3
+Langford Atrium,langford-atrium,2000,0.25,-8.624863599738145,3
+Langford Atrium,langford-atrium,2000,0.3,-9.900055845996384,3
+Langford Atrium,langford-atrium,2000,0.35,-11.554402840590216,3
+Langford Atrium,langford-atrium,2000,0.4,-13.585172196862807,3
+Langford Atrium,langford-atrium,2000,0.45,-15.948379361308476,3
+Langford Atrium,langford-atrium,2000,0.5,-17.790147691704842,3
+Langford Atrium,langford-atrium,2000,0.55,-19.882030788645142,3
+Langford Atrium,langford-atrium,2000,0.6,-22.234343743717073,2
+Langford Atrium,langford-atrium,2000,0.65,-24.12172318816007,2
+Langford Atrium,langford-atrium,2000,0.7,-26.503532117876333,2
+Langford Atrium,langford-atrium,2000,0.75,-29.438229418639978,2
+Langford Atrium,langford-atrium,2000,0.8,-34.40167882304786,1
+Langford Atrium,langford-atrium,4000,0.0,0.0,3
+Langford Atrium,langford-atrium,4000,0.05,-3.938447637217157,3
+Langford Atrium,langford-atrium,4000,0.1,-6.9571359971738325,3
+Langford Atrium,langford-atrium,4000,0.15,-10.00135465039052,3
+Langford Atrium,langford-atrium,4000,0.2,-12.596340220166201,3
+Langford Atrium,langford-atrium,4000,0.25,-14.990410735636537,3
+Langford Atrium,langford-atrium,4000,0.3,-16.894879076009005,3
+Langford Atrium,langford-atrium,4000,0.35,-19.002553889658984,3
+Langford Atrium,langford-atrium,4000,0.4,-21.063263203242244,3
+Langford Atrium,langford-atrium,4000,0.45,-22.701901385835903,3
+Langford Atrium,langford-atrium,4000,0.5,-24.14580583475155,3
+Langford Atrium,langford-atrium,4000,0.55,-26.842286890432167,3
+Langford Atrium,langford-atrium,4000,0.6,-29.744091974228937,3
+Langford Atrium,langford-atrium,4000,0.65,-30.783263049281427,2
+Langford Atrium,langford-atrium,4000,0.7,-33.669413812849385,2
+Langford Atrium,langford-atrium,4000,0.75,-38.76835387235605,2
+Langford Atrium,langford-atrium,4000,0.8,-39.54557957991818,1
+MSC Atrium,msc-atrium,broad,0.0,0.0,3
+MSC Atrium,msc-atrium,broad,0.05,-5.828695837988674,3
+MSC Atrium,msc-atrium,broad,0.1,-9.904955888844327,3
+MSC Atrium,msc-atrium,broad,0.15,-16.762004463343565,3
+MSC Atrium,msc-atrium,broad,0.2,-22.12817812519407,3
+MSC Atrium,msc-atrium,125,0.0,0.0,3
+MSC Atrium,msc-atrium,125,0.05,-3.1022678852536503,3
+MSC Atrium,msc-atrium,125,0.1,-6.590457652438907,3
+MSC Atrium,msc-atrium,125,0.15,-10.089668854589872,3
+MSC Atrium,msc-atrium,125,0.2,-17.735611798248332,3
+MSC Atrium,msc-atrium,250,0.0,0.0,3
+MSC Atrium,msc-atrium,250,0.05,-5.713157212911839,3
+MSC Atrium,msc-atrium,250,0.1,-11.256169971000908,3
+MSC Atrium,msc-atrium,250,0.15,-13.550413026725947,3
+MSC Atrium,msc-atrium,250,0.2,-17.454701585920482,3
+MSC Atrium,msc-atrium,500,0.0,0.0,3
+MSC Atrium,msc-atrium,500,0.05,-5.624428874163155,3
+MSC Atrium,msc-atrium,500,0.1,-11.638185386653321,3
+MSC Atrium,msc-atrium,500,0.15,-13.925038425999556,3
+MSC Atrium,msc-atrium,500,0.2,-20.803149112911367,3
+MSC Atrium,msc-atrium,1000,0.0,0.0,3
+MSC Atrium,msc-atrium,1000,0.05,-5.719946374925071,3
+MSC Atrium,msc-atrium,1000,0.1,-9.177671917218156,3
+MSC Atrium,msc-atrium,1000,0.15,-13.901368444822973,3
+MSC Atrium,msc-atrium,1000,0.2,-17.587058067560445,3
+MSC Atrium,msc-atrium,1000,0.25,-23.16700605606399,2
+MSC Atrium,msc-atrium,2000,0.0,0.0,3
+MSC Atrium,msc-atrium,2000,0.05,-5.035856219494664,3
+MSC Atrium,msc-atrium,2000,0.1,-8.767079272942448,3
+MSC Atrium,msc-atrium,2000,0.15,-14.636548682014933,3
+MSC Atrium,msc-atrium,2000,0.2,-17.569352396236376,3
+MSC Atrium,msc-atrium,2000,0.25,-20.028142085470765,2
+MSC Atrium,msc-atrium,2000,0.3,-22.962471921273917,2
+MSC Atrium,msc-atrium,2000,0.35,-25.738090818979607,2
+MSC Atrium,msc-atrium,2000,0.4,-29.358489405097195,2
+MSC Atrium,msc-atrium,2000,0.45,-40.20301965276813,2
+MSC Atrium,msc-atrium,4000,0.0,0.0,3
+MSC Atrium,msc-atrium,4000,0.05,-6.263220903130709,3
+MSC Atrium,msc-atrium,4000,0.1,-10.90907664471336,3
+MSC Atrium,msc-atrium,4000,0.15,-17.692206532221114,3
+MSC Atrium,msc-atrium,4000,0.2,-20.622289174468342,3
+MSC Atrium,msc-atrium,4000,0.25,-23.038337629304763,2
+MSC Atrium,msc-atrium,4000,0.3,-26.375694063366165,2
+MSC Atrium,msc-atrium,4000,0.35,-30.620524073871092,2
+MSC Atrium,msc-atrium,4000,0.4,-39.01182105069469,1
+MSC Hallway,msc-hallway,broad,0.0,0.0,3
+MSC Hallway,msc-hallway,broad,0.05,-13.220379937939201,3
+MSC Hallway,msc-hallway,broad,0.1,-20.566377952863807,3
+MSC Hallway,msc-hallway,broad,0.15,-27.735966655837977,3
+MSC Hallway,msc-hallway,broad,0.2,-36.55137593275113,3
+MSC Hallway,msc-hallway,125,0.0,0.0,3
+MSC Hallway,msc-hallway,125,0.05,-10.396728486468936,3
+MSC Hallway,msc-hallway,125,0.1,-11.378415819815281,3
+MSC Hallway,msc-hallway,125,0.15,-29.721310959236426,3
+MSC Hallway,msc-hallway,125,0.2,-160.0,3
+MSC Hallway,msc-hallway,250,0.0,0.0,3
+MSC Hallway,msc-hallway,250,0.05,-6.697203217866857,3
+MSC Hallway,msc-hallway,250,0.1,-13.38633721760846,3
+MSC Hallway,msc-hallway,250,0.15,-30.673143358079592,3
+MSC Hallway,msc-hallway,250,0.2,-160.0,3
+MSC Hallway,msc-hallway,500,0.0,0.0,3
+MSC Hallway,msc-hallway,500,0.05,-6.825985110604752,3
+MSC Hallway,msc-hallway,500,0.1,-14.460743185307274,3
+MSC Hallway,msc-hallway,500,0.15,-19.32757090462752,3
+MSC Hallway,msc-hallway,500,0.2,-35.14455860799457,3
+MSC Hallway,msc-hallway,1000,0.0,0.0,3
+MSC Hallway,msc-hallway,1000,0.05,-9.513369011477215,3
+MSC Hallway,msc-hallway,1000,0.1,-16.91412555498945,3
+MSC Hallway,msc-hallway,1000,0.15,-22.232096337376614,3
+MSC Hallway,msc-hallway,1000,0.2,-30.692250766002743,3
+MSC Hallway,msc-hallway,1000,0.25,-30.16708254105459,1
+MSC Hallway,msc-hallway,2000,0.0,0.0,3
+MSC Hallway,msc-hallway,2000,0.05,-13.349580328891342,3
+MSC Hallway,msc-hallway,2000,0.1,-19.433915557449637,3
+MSC Hallway,msc-hallway,2000,0.15,-25.259999518519688,3
+MSC Hallway,msc-hallway,2000,0.2,-29.31885068586444,3
+MSC Hallway,msc-hallway,2000,0.25,-33.69812033543721,3
+MSC Hallway,msc-hallway,2000,0.3,-37.714199522826775,3
+MSC Hallway,msc-hallway,2000,0.35,-41.748176508143885,2
+MSC Hallway,msc-hallway,2000,0.4,-44.28101163660138,1
+MSC Hallway,msc-hallway,2000,0.45,-51.20406515316197,1
+MSC Hallway,msc-hallway,4000,0.0,0.0,3
+MSC Hallway,msc-hallway,4000,0.05,-16.120308949327583,3
+MSC Hallway,msc-hallway,4000,0.1,-21.707963009760746,3
+MSC Hallway,msc-hallway,4000,0.15,-26.727536646286083,3
+MSC Hallway,msc-hallway,4000,0.2,-31.48957673790962,3
+MSC Hallway,msc-hallway,4000,0.25,-33.82952589091029,2
+MSC Hallway,msc-hallway,4000,0.3,-37.96947244794248,2
+MSC Hallway,msc-hallway,4000,0.35,-38.574900575659605,1
+MSC Hallway,msc-hallway,4000,0.4,-42.649634254331616,1
+MSC Hallway,msc-hallway,4000,0.45,-50.794436768520974,1
+Rudder Tower 7th Floor,rudder-tower-7th-floor,broad,0.0,0.0,3
+Rudder Tower 7th Floor,rudder-tower-7th-floor,broad,0.05,-7.156919041638382,3
+Rudder Tower 7th Floor,rudder-tower-7th-floor,broad,0.1,-13.045289162644645,3
+Rudder Tower 7th Floor,rudder-tower-7th-floor,broad,0.15,-17.583402072020675,3
+Rudder Tower 7th Floor,rudder-tower-7th-floor,broad,0.2,-22.455075180506178,3
+Rudder Tower 7th Floor,rudder-tower-7th-floor,125,0.0,0.0,3
+Rudder Tower 7th Floor,rudder-tower-7th-floor,125,0.05,-0.6996383490146598,3
+Rudder Tower 7th Floor,rudder-tower-7th-floor,125,0.1,-1.9015391201624467,3
+Rudder Tower 7th Floor,rudder-tower-7th-floor,125,0.15,-3.466112655274008,3
+Rudder Tower 7th Floor,rudder-tower-7th-floor,125,0.2,-6.400928920193213,3
+Rudder Tower 7th Floor,rudder-tower-7th-floor,250,0.0,0.0,3
+Rudder Tower 7th Floor,rudder-tower-7th-floor,250,0.05,-3.753278903331622,3
+Rudder Tower 7th Floor,rudder-tower-7th-floor,250,0.1,-6.279312897464516,3
+Rudder Tower 7th Floor,rudder-tower-7th-floor,250,0.15,-8.035466038703543,3
+Rudder Tower 7th Floor,rudder-tower-7th-floor,250,0.2,-11.7550392189946,3
+Rudder Tower 7th Floor,rudder-tower-7th-floor,500,0.0,0.0,3
+Rudder Tower 7th Floor,rudder-tower-7th-floor,500,0.05,-5.690652238288294,3
+Rudder Tower 7th Floor,rudder-tower-7th-floor,500,0.1,-11.105917164782475,3
+Rudder Tower 7th Floor,rudder-tower-7th-floor,500,0.15,-15.476858891565572,3
+Rudder Tower 7th Floor,rudder-tower-7th-floor,500,0.2,-22.897559452951015,3
+Rudder Tower 7th Floor,rudder-tower-7th-floor,1000,0.0,0.0,3
+Rudder Tower 7th Floor,rudder-tower-7th-floor,1000,0.05,-8.503972106332403,3
+Rudder Tower 7th Floor,rudder-tower-7th-floor,1000,0.1,-14.227048207315185,3
+Rudder Tower 7th Floor,rudder-tower-7th-floor,1000,0.15,-20.94266439452827,3
+Rudder Tower 7th Floor,rudder-tower-7th-floor,1000,0.2,-27.1232196399545,3
+Rudder Tower 7th Floor,rudder-tower-7th-floor,2000,0.0,0.0,3
+Rudder Tower 7th Floor,rudder-tower-7th-floor,2000,0.05,-6.700061339139101,3
+Rudder Tower 7th Floor,rudder-tower-7th-floor,2000,0.1,-12.609979307963977,3
+Rudder Tower 7th Floor,rudder-tower-7th-floor,2000,0.15,-16.14833247157264,3
+Rudder Tower 7th Floor,rudder-tower-7th-floor,2000,0.2,-18.649901360322247,3
+Rudder Tower 7th Floor,rudder-tower-7th-floor,2000,0.25,-20.334109777048724,3
+Rudder Tower 7th Floor,rudder-tower-7th-floor,2000,0.3,-23.730540089367103,3
+Rudder Tower 7th Floor,rudder-tower-7th-floor,2000,0.35,-27.517359248007732,3
+Rudder Tower 7th Floor,rudder-tower-7th-floor,2000,0.4,-30.506974558630823,3
+Rudder Tower 7th Floor,rudder-tower-7th-floor,2000,0.45,-33.366598309372776,2
+Rudder Tower 7th Floor,rudder-tower-7th-floor,2000,0.5,-37.91926355899058,2
+Rudder Tower 7th Floor,rudder-tower-7th-floor,4000,0.0,0.0,3
+Rudder Tower 7th Floor,rudder-tower-7th-floor,4000,0.05,-7.203490984949977,3
+Rudder Tower 7th Floor,rudder-tower-7th-floor,4000,0.1,-12.35913640372466,3
+Rudder Tower 7th Floor,rudder-tower-7th-floor,4000,0.15,-16.217365627586485,3
+Rudder Tower 7th Floor,rudder-tower-7th-floor,4000,0.2,-19.69496461832613,3
+Rudder Tower 7th Floor,rudder-tower-7th-floor,4000,0.25,-21.61587565920521,3
+Rudder Tower 7th Floor,rudder-tower-7th-floor,4000,0.3,-23.80661016751475,3
+Rudder Tower 7th Floor,rudder-tower-7th-floor,4000,0.35,-25.82326439111067,2
+Rudder Tower 7th Floor,rudder-tower-7th-floor,4000,0.4,-28.5998248622175,2
+Rudder Tower 7th Floor,rudder-tower-7th-floor,4000,0.45,-32.05989806131569,2
+Rudder Tower 7th Floor,rudder-tower-7th-floor,4000,0.5,-35.54036698390356,2
+Rudder Tower 7th Floor,rudder-tower-7th-floor,4000,0.55,-38.71350061143028,1
+Zachry Collaboration Room,zachry-collaboration-room,broad,0.0,0.0,3
+Zachry Collaboration Room,zachry-collaboration-room,broad,0.05,-5.160661943726571,3
+Zachry Collaboration Room,zachry-collaboration-room,broad,0.1,-12.383018599029342,3
+Zachry Collaboration Room,zachry-collaboration-room,broad,0.15,-20.28413606514326,3
+Zachry Collaboration Room,zachry-collaboration-room,broad,0.2,-27.350176822973964,3
+Zachry Collaboration Room,zachry-collaboration-room,broad,0.25,-35.34579959458681,3
+Zachry Collaboration Room,zachry-collaboration-room,broad,0.3,-44.603477188157115,2
+Zachry Collaboration Room,zachry-collaboration-room,125,0.0,0.0,3
+Zachry Collaboration Room,zachry-collaboration-room,125,0.05,-2.33455383840515,3
+Zachry Collaboration Room,zachry-collaboration-room,125,0.1,-8.285717823873204,3
+Zachry Collaboration Room,zachry-collaboration-room,125,0.15,-18.314061913109267,3
+Zachry Collaboration Room,zachry-collaboration-room,125,0.2,-22.60027770780251,3
+Zachry Collaboration Room,zachry-collaboration-room,250,0.0,0.0,3
+Zachry Collaboration Room,zachry-collaboration-room,250,0.05,-5.105361357704673,3
+Zachry Collaboration Room,zachry-collaboration-room,250,0.1,-12.885653655040723,3
+Zachry Collaboration Room,zachry-collaboration-room,250,0.15,-17.212209731337623,3
+Zachry Collaboration Room,zachry-collaboration-room,250,0.2,-22.64122828848337,3
+Zachry Collaboration Room,zachry-collaboration-room,250,0.25,-27.15925906396052,2
+Zachry Collaboration Room,zachry-collaboration-room,250,0.3,-34.35644380775399,2
+Zachry Collaboration Room,zachry-collaboration-room,500,0.0,0.0,3
+Zachry Collaboration Room,zachry-collaboration-room,500,0.05,-4.006748943994392,3
+Zachry Collaboration Room,zachry-collaboration-room,500,0.1,-10.358833520615864,3
+Zachry Collaboration Room,zachry-collaboration-room,500,0.15,-17.51441282599993,3
+Zachry Collaboration Room,zachry-collaboration-room,500,0.2,-25.79459951079043,3
+Zachry Collaboration Room,zachry-collaboration-room,500,0.25,-33.29565684174852,3
+Zachry Collaboration Room,zachry-collaboration-room,500,0.3,-41.63832625656456,2
+Zachry Collaboration Room,zachry-collaboration-room,1000,0.0,0.0,3
+Zachry Collaboration Room,zachry-collaboration-room,1000,0.05,-5.678152988886338,3
+Zachry Collaboration Room,zachry-collaboration-room,1000,0.1,-13.284314493944962,3
+Zachry Collaboration Room,zachry-collaboration-room,1000,0.15,-20.402558942921836,3
+Zachry Collaboration Room,zachry-collaboration-room,1000,0.2,-26.520446758631504,3
+Zachry Collaboration Room,zachry-collaboration-room,1000,0.25,-33.878534859011815,3
+Zachry Collaboration Room,zachry-collaboration-room,1000,0.3,-42.4870984392101,3
+Zachry Collaboration Room,zachry-collaboration-room,1000,0.35,-53.25478067020897,2
+Zachry Collaboration Room,zachry-collaboration-room,2000,0.0,0.0,3
+Zachry Collaboration Room,zachry-collaboration-room,2000,0.05,-4.5759874098855,3
+Zachry Collaboration Room,zachry-collaboration-room,2000,0.1,-11.874459264752225,3
+Zachry Collaboration Room,zachry-collaboration-room,2000,0.15,-20.737887935832855,3
+Zachry Collaboration Room,zachry-collaboration-room,2000,0.2,-27.78901578684499,3
+Zachry Collaboration Room,zachry-collaboration-room,2000,0.25,-35.16111527643592,3
+Zachry Collaboration Room,zachry-collaboration-room,2000,0.3,-42.01147344741782,3
+Zachry Collaboration Room,zachry-collaboration-room,2000,0.35,-53.46439644533926,3
+Zachry Collaboration Room,zachry-collaboration-room,4000,0.0,0.0,3
+Zachry Collaboration Room,zachry-collaboration-room,4000,0.05,-5.473550071734977,3
+Zachry Collaboration Room,zachry-collaboration-room,4000,0.1,-13.077180660810212,3
+Zachry Collaboration Room,zachry-collaboration-room,4000,0.15,-20.936598919402485,3
+Zachry Collaboration Room,zachry-collaboration-room,4000,0.2,-27.90549152378727,3
+Zachry Collaboration Room,zachry-collaboration-room,4000,0.25,-35.71741928540253,3
+Zachry Collaboration Room,zachry-collaboration-room,4000,0.3,-44.4004981537977,3
+Zachry Collaboration Room,zachry-collaboration-room,4000,0.35,-52.76528279932302,1
+Zachry Conocophillips Atrium,zachry-conocophillips-atrium,broad,0.0,0.0,3
+Zachry Conocophillips Atrium,zachry-conocophillips-atrium,broad,0.05,-12.04791157428958,3
+Zachry Conocophillips Atrium,zachry-conocophillips-atrium,broad,0.1,-19.312151465787746,3
+Zachry Conocophillips Atrium,zachry-conocophillips-atrium,broad,0.15,-23.452381237405476,3
+Zachry Conocophillips Atrium,zachry-conocophillips-atrium,broad,0.2,-28.139630466132758,3
+Zachry Conocophillips Atrium,zachry-conocophillips-atrium,125,0.0,0.0,3
+Zachry Conocophillips Atrium,zachry-conocophillips-atrium,125,0.05,-17.016492058958615,3
+Zachry Conocophillips Atrium,zachry-conocophillips-atrium,125,0.1,-20.786934390475402,3
+Zachry Conocophillips Atrium,zachry-conocophillips-atrium,125,0.15,-21.31845434096792,3
+Zachry Conocophillips Atrium,zachry-conocophillips-atrium,125,0.2,-22.436869977331177,3
+Zachry Conocophillips Atrium,zachry-conocophillips-atrium,250,0.0,0.0,3
+Zachry Conocophillips Atrium,zachry-conocophillips-atrium,250,0.05,-7.80551730687371,3
+Zachry Conocophillips Atrium,zachry-conocophillips-atrium,250,0.1,-17.45163069876794,3
+Zachry Conocophillips Atrium,zachry-conocophillips-atrium,250,0.15,-24.917211096772025,3
+Zachry Conocophillips Atrium,zachry-conocophillips-atrium,250,0.2,-39.85066357560981,3
+Zachry Conocophillips Atrium,zachry-conocophillips-atrium,500,0.0,0.0,3
+Zachry Conocophillips Atrium,zachry-conocophillips-atrium,500,0.05,-7.675675703782373,3
+Zachry Conocophillips Atrium,zachry-conocophillips-atrium,500,0.1,-15.407745529792699,3
+Zachry Conocophillips Atrium,zachry-conocophillips-atrium,500,0.15,-20.918030538427953,3
+Zachry Conocophillips Atrium,zachry-conocophillips-atrium,500,0.2,-27.600789738195942,3
+Zachry Conocophillips Atrium,zachry-conocophillips-atrium,1000,0.0,0.0,3
+Zachry Conocophillips Atrium,zachry-conocophillips-atrium,1000,0.05,-11.523854996723163,3
+Zachry Conocophillips Atrium,zachry-conocophillips-atrium,1000,0.1,-18.354982906720085,3
+Zachry Conocophillips Atrium,zachry-conocophillips-atrium,1000,0.15,-22.36692034371124,3
+Zachry Conocophillips Atrium,zachry-conocophillips-atrium,1000,0.2,-27.61529505215425,3
+Zachry Conocophillips Atrium,zachry-conocophillips-atrium,2000,0.0,0.0,3
+Zachry Conocophillips Atrium,zachry-conocophillips-atrium,2000,0.05,-10.977754222019554,3
+Zachry Conocophillips Atrium,zachry-conocophillips-atrium,2000,0.1,-18.06094378424863,3
+Zachry Conocophillips Atrium,zachry-conocophillips-atrium,2000,0.15,-21.68838779748885,3
+Zachry Conocophillips Atrium,zachry-conocophillips-atrium,2000,0.2,-25.41563548925955,3
+Zachry Conocophillips Atrium,zachry-conocophillips-atrium,2000,0.25,-18.798584220460906,1
+Zachry Conocophillips Atrium,zachry-conocophillips-atrium,2000,0.3,-19.878025171917677,1
+Zachry Conocophillips Atrium,zachry-conocophillips-atrium,2000,0.35,-21.007346583390515,1
+Zachry Conocophillips Atrium,zachry-conocophillips-atrium,2000,0.4,-22.45006268135119,1
+Zachry Conocophillips Atrium,zachry-conocophillips-atrium,2000,0.45,-23.94303609158144,1
+Zachry Conocophillips Atrium,zachry-conocophillips-atrium,2000,0.5,-25.532104970918752,1
+Zachry Conocophillips Atrium,zachry-conocophillips-atrium,2000,0.55,-28.67888651510025,1
+Zachry Conocophillips Atrium,zachry-conocophillips-atrium,2000,0.6,-35.39699109507927,1
+Zachry Conocophillips Atrium,zachry-conocophillips-atrium,4000,0.0,0.0,3
+Zachry Conocophillips Atrium,zachry-conocophillips-atrium,4000,0.05,-20.900449840445848,3
+Zachry Conocophillips Atrium,zachry-conocophillips-atrium,4000,0.1,-27.53998836739759,3
+Zachry Conocophillips Atrium,zachry-conocophillips-atrium,4000,0.15,-31.421279842521614,3
+Zachry Conocophillips Atrium,zachry-conocophillips-atrium,4000,0.2,-35.41478980536101,3
+Zachry Conocophillips Atrium,zachry-conocophillips-atrium,4000,0.25,-18.545060295813492,1
+Zachry Conocophillips Atrium,zachry-conocophillips-atrium,4000,0.3,-20.01582054958125,1
+Zachry Conocophillips Atrium,zachry-conocophillips-atrium,4000,0.35,-21.172731827352774,1
+Zachry Conocophillips Atrium,zachry-conocophillips-atrium,4000,0.4,-22.62693616495561,1
+Zachry Conocophillips Atrium,zachry-conocophillips-atrium,4000,0.45,-24.897819554886702,1
+Zachry Conocophillips Atrium,zachry-conocophillips-atrium,4000,0.5,-26.302257290278533,1
+Zachry Conocophillips Atrium,zachry-conocophillips-atrium,4000,0.55,-29.875823946554195,1
+Zachry Learning Stairs,zachry-learning-stairs,broad,0.0,0.0,3
+Zachry Learning Stairs,zachry-learning-stairs,broad,0.05,-6.702723950300519,3
+Zachry Learning Stairs,zachry-learning-stairs,broad,0.1,-7.867053617194317,3
+Zachry Learning Stairs,zachry-learning-stairs,broad,0.15,-9.582907586187044,3
+Zachry Learning Stairs,zachry-learning-stairs,broad,0.2,-15.673509625269944,3
+Zachry Learning Stairs,zachry-learning-stairs,broad,0.25,-25.38605952140881,1
+Zachry Learning Stairs,zachry-learning-stairs,125,0.0,0.0,3
+Zachry Learning Stairs,zachry-learning-stairs,125,0.05,-10.971358955818918,3
+Zachry Learning Stairs,zachry-learning-stairs,125,0.1,-160.0,3
+Zachry Learning Stairs,zachry-learning-stairs,125,0.15,-160.0,3
+Zachry Learning Stairs,zachry-learning-stairs,125,0.2,-160.0,3
+Zachry Learning Stairs,zachry-learning-stairs,250,0.0,0.0,3
+Zachry Learning Stairs,zachry-learning-stairs,250,0.05,-8.347045482016807,3
+Zachry Learning Stairs,zachry-learning-stairs,250,0.1,-19.77968322131155,3
+Zachry Learning Stairs,zachry-learning-stairs,250,0.15,-25.896209574345882,3
+Zachry Learning Stairs,zachry-learning-stairs,250,0.2,-28.018381206070572,3
+Zachry Learning Stairs,zachry-learning-stairs,500,0.0,0.0,3
+Zachry Learning Stairs,zachry-learning-stairs,500,0.05,-7.822672268670975,3
+Zachry Learning Stairs,zachry-learning-stairs,500,0.1,-10.968788053643069,3
+Zachry Learning Stairs,zachry-learning-stairs,500,0.15,-12.934006062180945,3
+Zachry Learning Stairs,zachry-learning-stairs,500,0.2,-19.870504626909813,3
+Zachry Learning Stairs,zachry-learning-stairs,1000,0.0,0.0,3
+Zachry Learning Stairs,zachry-learning-stairs,1000,0.05,-6.450145174704561,3
+Zachry Learning Stairs,zachry-learning-stairs,1000,0.1,-7.483388516903455,3
+Zachry Learning Stairs,zachry-learning-stairs,1000,0.15,-8.684298616874157,3
+Zachry Learning Stairs,zachry-learning-stairs,1000,0.2,-11.955682941289297,3
+Zachry Learning Stairs,zachry-learning-stairs,1000,0.25,-14.439572809184558,3
+Zachry Learning Stairs,zachry-learning-stairs,1000,0.3,-16.486724790847255,3
+Zachry Learning Stairs,zachry-learning-stairs,1000,0.35,-19.15251710383336,3
+Zachry Learning Stairs,zachry-learning-stairs,1000,0.4,-18.902168221058304,2
+Zachry Learning Stairs,zachry-learning-stairs,1000,0.45,-23.740408978958826,2
+Zachry Learning Stairs,zachry-learning-stairs,1000,0.5,-16.798672604976378,1
+Zachry Learning Stairs,zachry-learning-stairs,1000,0.55,-17.267586298078054,1
+Zachry Learning Stairs,zachry-learning-stairs,1000,0.6,-17.775947234262016,1
+Zachry Learning Stairs,zachry-learning-stairs,1000,0.65,-18.469333840620315,1
+Zachry Learning Stairs,zachry-learning-stairs,1000,0.7,-19.363361341144987,1
+Zachry Learning Stairs,zachry-learning-stairs,1000,0.75,-20.74707109620021,1
+Zachry Learning Stairs,zachry-learning-stairs,1000,0.8,-22.389885193776315,1
+Zachry Learning Stairs,zachry-learning-stairs,1000,0.85,-24.14365559566376,1
+Zachry Learning Stairs,zachry-learning-stairs,1000,0.9,-26.101595192160225,1
+Zachry Learning Stairs,zachry-learning-stairs,1000,0.95,-29.90747586077665,1
+Zachry Learning Stairs,zachry-learning-stairs,2000,0.0,0.0,3
+Zachry Learning Stairs,zachry-learning-stairs,2000,0.05,-3.8821873593228062,3
+Zachry Learning Stairs,zachry-learning-stairs,2000,0.1,-4.70617495412516,3
+Zachry Learning Stairs,zachry-learning-stairs,2000,0.15,-6.014056279493263,3
+Zachry Learning Stairs,zachry-learning-stairs,2000,0.2,-8.89997101762287,3
+Zachry Learning Stairs,zachry-learning-stairs,2000,0.25,-10.89394548006438,3
+Zachry Learning Stairs,zachry-learning-stairs,2000,0.3,-12.597889521608627,3
+Zachry Learning Stairs,zachry-learning-stairs,2000,0.35,-13.923332224383396,3
+Zachry Learning Stairs,zachry-learning-stairs,2000,0.4,-15.588251412975485,3
+Zachry Learning Stairs,zachry-learning-stairs,2000,0.45,-17.54058398085849,3
+Zachry Learning Stairs,zachry-learning-stairs,2000,0.5,-19.490872319191805,3
+Zachry Learning Stairs,zachry-learning-stairs,2000,0.55,-21.395864784327344,3
+Zachry Learning Stairs,zachry-learning-stairs,2000,0.6,-23.8512007656533,3
+Zachry Learning Stairs,zachry-learning-stairs,2000,0.65,-26.737421433231713,3
+Zachry Learning Stairs,zachry-learning-stairs,2000,0.7,-28.0203243748139,2
+Zachry Learning Stairs,zachry-learning-stairs,2000,0.75,-24.05642763121118,1
+Zachry Learning Stairs,zachry-learning-stairs,2000,0.8,-25.497129413608015,1
+Zachry Learning Stairs,zachry-learning-stairs,2000,0.85,-27.173008442841116,1
+Zachry Learning Stairs,zachry-learning-stairs,2000,0.9,-29.50201120545006,1
+Zachry Learning Stairs,zachry-learning-stairs,2000,0.95,-31.441772116994294,1
+Zachry Learning Stairs,zachry-learning-stairs,2000,1.0,-35.19047121290334,1
+Zachry Learning Stairs,zachry-learning-stairs,4000,0.0,0.0,3
+Zachry Learning Stairs,zachry-learning-stairs,4000,0.05,-5.138497617868163,3
+Zachry Learning Stairs,zachry-learning-stairs,4000,0.1,-5.75223148162968,3
+Zachry Learning Stairs,zachry-learning-stairs,4000,0.15,-7.120679831645585,3
+Zachry Learning Stairs,zachry-learning-stairs,4000,0.2,-9.296034465415616,3
+Zachry Learning Stairs,zachry-learning-stairs,4000,0.25,-11.522581554771907,3
+Zachry Learning Stairs,zachry-learning-stairs,4000,0.3,-13.720479776703574,3
+Zachry Learning Stairs,zachry-learning-stairs,4000,0.35,-15.610247011995646,3
+Zachry Learning Stairs,zachry-learning-stairs,4000,0.4,-17.833589065188487,3
+Zachry Learning Stairs,zachry-learning-stairs,4000,0.45,-19.575476318825583,3
+Zachry Learning Stairs,zachry-learning-stairs,4000,0.5,-22.04072750005998,3
+Zachry Learning Stairs,zachry-learning-stairs,4000,0.55,-23.836757394244337,3
+Zachry Learning Stairs,zachry-learning-stairs,4000,0.6,-26.020120303438773,2
+Zachry Learning Stairs,zachry-learning-stairs,4000,0.65,-29.32407470628856,2
+Zachry Learning Stairs,zachry-learning-stairs,4000,0.7,-33.02895134457026,1
+Zachry Stairwell,zachry-stairwell,broad,0.0,0.0,3
+Zachry Stairwell,zachry-stairwell,broad,0.05,-0.63162405365189,3
+Zachry Stairwell,zachry-stairwell,broad,0.1,-1.7080036994510919,3
+Zachry Stairwell,zachry-stairwell,broad,0.15,-2.8594026998769473,3
+Zachry Stairwell,zachry-stairwell,broad,0.2,-4.060709711887767,3
+Zachry Stairwell,zachry-stairwell,broad,0.25,-5.42389719944623,3
+Zachry Stairwell,zachry-stairwell,broad,0.3,-6.564343037703277,3
+Zachry Stairwell,zachry-stairwell,broad,0.35,-7.572310262935119,3
+Zachry Stairwell,zachry-stairwell,broad,0.4,-8.4913064363638,3
+Zachry Stairwell,zachry-stairwell,broad,0.45,-9.518965375311799,3
+Zachry Stairwell,zachry-stairwell,broad,0.5,-10.382179469920667,3
+Zachry Stairwell,zachry-stairwell,broad,0.55,-11.099451555630539,3
+Zachry Stairwell,zachry-stairwell,broad,0.6,-11.812265677977102,3
+Zachry Stairwell,zachry-stairwell,broad,0.65,-12.521389411208975,3
+Zachry Stairwell,zachry-stairwell,broad,0.7,-13.194850481587148,3
+Zachry Stairwell,zachry-stairwell,broad,0.75,-13.77735755777149,3
+Zachry Stairwell,zachry-stairwell,broad,0.8,-14.446503452848544,3
+Zachry Stairwell,zachry-stairwell,broad,0.85,-15.20085438829323,3
+Zachry Stairwell,zachry-stairwell,broad,0.9,-16.136229934703877,3
+Zachry Stairwell,zachry-stairwell,broad,0.95,-17.102196773568135,3
+Zachry Stairwell,zachry-stairwell,broad,1.0,-18.13866519536031,3
+Zachry Stairwell,zachry-stairwell,broad,1.05,-19.015222937762765,3
+Zachry Stairwell,zachry-stairwell,broad,1.1,-19.933103442535575,3
+Zachry Stairwell,zachry-stairwell,broad,1.15,-20.847679732571525,3
+Zachry Stairwell,zachry-stairwell,broad,1.2,-21.714367360398608,3
+Zachry Stairwell,zachry-stairwell,broad,1.25,-22.714350866080473,3
+Zachry Stairwell,zachry-stairwell,broad,1.3,-23.93569744360419,3
+Zachry Stairwell,zachry-stairwell,broad,1.35,-25.087078855265148,3
+Zachry Stairwell,zachry-stairwell,broad,1.4,-26.153963654120226,3
+Zachry Stairwell,zachry-stairwell,broad,1.45,-27.31531660499203,3
+Zachry Stairwell,zachry-stairwell,broad,1.5,-28.717831350025325,3
+Zachry Stairwell,zachry-stairwell,broad,1.55,-29.999993202090387,2
+Zachry Stairwell,zachry-stairwell,broad,1.6,-31.605948531984346,2
+Zachry Stairwell,zachry-stairwell,broad,1.65,-33.93730657163535,2
+Zachry Stairwell,zachry-stairwell,broad,1.7,-36.96931760148004,2
+Zachry Stairwell,zachry-stairwell,broad,1.75,-35.16052992591388,1
+Zachry Stairwell,zachry-stairwell,broad,1.8,-37.22819251401547,1
+Zachry Stairwell,zachry-stairwell,broad,1.85,-39.47417052014807,1
+Zachry Stairwell,zachry-stairwell,broad,1.9,-43.18415190767873,1
+Zachry Stairwell,zachry-stairwell,125,0.0,0.0,3
+Zachry Stairwell,zachry-stairwell,125,0.05,-1.274159739466135,3
+Zachry Stairwell,zachry-stairwell,125,0.1,-4.410845412217453,3
+Zachry Stairwell,zachry-stairwell,125,0.15,-10.065501004746197,3
+Zachry Stairwell,zachry-stairwell,125,0.2,-21.5322041429595,3
+Zachry Stairwell,zachry-stairwell,250,0.0,0.0,3
+Zachry Stairwell,zachry-stairwell,250,0.05,-0.4345130178906169,3
+Zachry Stairwell,zachry-stairwell,250,0.1,-3.077092916325943,3
+Zachry Stairwell,zachry-stairwell,250,0.15,-4.6122838169880644,3
+Zachry Stairwell,zachry-stairwell,250,0.2,-5.481408253639847,3
+Zachry Stairwell,zachry-stairwell,250,0.25,-6.521045504522174,3
+Zachry Stairwell,zachry-stairwell,250,0.3,-6.536691030723102,2
+Zachry Stairwell,zachry-stairwell,250,0.35,-7.472283496553409,2
+Zachry Stairwell,zachry-stairwell,250,0.4,-8.670499541364324,2
+Zachry Stairwell,zachry-stairwell,250,0.45,-10.245801101576642,2
+Zachry Stairwell,zachry-stairwell,250,0.5,-11.32930772645009,2
+Zachry Stairwell,zachry-stairwell,250,0.55,-14.69329061867138,2
+Zachry Stairwell,zachry-stairwell,250,0.6,-10.725704985420698,1
+Zachry Stairwell,zachry-stairwell,250,0.65,-11.969628824777727,1
+Zachry Stairwell,zachry-stairwell,250,0.7,-13.370608470847081,1
+Zachry Stairwell,zachry-stairwell,250,0.75,-14.688985455183005,1
+Zachry Stairwell,zachry-stairwell,250,0.8,-17.32060361191166,1
+Zachry Stairwell,zachry-stairwell,250,0.85,-22.23981253689809,1
+Zachry Stairwell,zachry-stairwell,500,0.0,0.0,3
+Zachry Stairwell,zachry-stairwell,500,0.05,-0.42463586572423084,3
+Zachry Stairwell,zachry-stairwell,500,0.1,-1.4159823478844156,3
+Zachry Stairwell,zachry-stairwell,500,0.15,-2.481473622741781,3
+Zachry Stairwell,zachry-stairwell,500,0.2,-3.7060438517095564,3
+Zachry Stairwell,zachry-stairwell,500,0.25,-4.612772591003443,3
+Zachry Stairwell,zachry-stairwell,500,0.3,-5.4266032809055655,3
+Zachry Stairwell,zachry-stairwell,500,0.35,-6.345139929153668,3
+Zachry Stairwell,zachry-stairwell,500,0.4,-7.074545705063339,3
+Zachry Stairwell,zachry-stairwell,500,0.45,-8.04900971474889,3
+Zachry Stairwell,zachry-stairwell,500,0.5,-8.897967765264008,3
+Zachry Stairwell,zachry-stairwell,500,0.55,-9.75930527863927,3
+Zachry Stairwell,zachry-stairwell,500,0.6,-10.381017123599216,3
+Zachry Stairwell,zachry-stairwell,500,0.65,-10.816982330364588,3
+Zachry Stairwell,zachry-stairwell,500,0.7,-11.61150252679537,3
+Zachry Stairwell,zachry-stairwell,500,0.75,-12.201352621270678,3
+Zachry Stairwell,zachry-stairwell,500,0.8,-12.682338124734557,3
+Zachry Stairwell,zachry-stairwell,500,0.85,-13.700916587425093,3
+Zachry Stairwell,zachry-stairwell,500,0.9,-15.098729444204437,3
+Zachry Stairwell,zachry-stairwell,500,0.95,-15.859831167590858,3
+Zachry Stairwell,zachry-stairwell,500,1.0,-17.01210627527685,3
+Zachry Stairwell,zachry-stairwell,500,1.05,-18.009431312717176,3
+Zachry Stairwell,zachry-stairwell,500,1.1,-19.13596017068922,3
+Zachry Stairwell,zachry-stairwell,500,1.15,-20.219941464520915,3
+Zachry Stairwell,zachry-stairwell,500,1.2,-22.512440072951044,3
+Zachry Stairwell,zachry-stairwell,500,1.25,-24.411926116636913,3
+Zachry Stairwell,zachry-stairwell,500,1.3,-25.821667017471967,3
+Zachry Stairwell,zachry-stairwell,500,1.35,-26.970480326972975,3
+Zachry Stairwell,zachry-stairwell,500,1.4,-26.728409234796068,2
+Zachry Stairwell,zachry-stairwell,500,1.45,-27.36964008879061,2
+Zachry Stairwell,zachry-stairwell,500,1.5,-28.5944116004185,2
+Zachry Stairwell,zachry-stairwell,500,1.55,-30.0107289225043,2
+Zachry Stairwell,zachry-stairwell,500,1.6,-31.819976482471404,2
+Zachry Stairwell,zachry-stairwell,500,1.65,-33.48892830185835,2
+Zachry Stairwell,zachry-stairwell,500,1.7,-34.75648234369571,1
+Zachry Stairwell,zachry-stairwell,500,1.75,-40.49502575706648,1
+Zachry Stairwell,zachry-stairwell,1000,0.0,0.0,3
+Zachry Stairwell,zachry-stairwell,1000,0.05,-0.6227324386468329,3
+Zachry Stairwell,zachry-stairwell,1000,0.1,-1.5138483334292554,3
+Zachry Stairwell,zachry-stairwell,1000,0.15,-2.4909862344250953,3
+Zachry Stairwell,zachry-stairwell,1000,0.2,-3.383776809797077,3
+Zachry Stairwell,zachry-stairwell,1000,0.25,-4.363016161056474,3
+Zachry Stairwell,zachry-stairwell,1000,0.3,-5.186546120548898,3
+Zachry Stairwell,zachry-stairwell,1000,0.35,-6.130422611674695,3
+Zachry Stairwell,zachry-stairwell,1000,0.4,-6.747790897612509,3
+Zachry Stairwell,zachry-stairwell,1000,0.45,-7.719719731346618,3
+Zachry Stairwell,zachry-stairwell,1000,0.5,-8.335872087965434,3
+Zachry Stairwell,zachry-stairwell,1000,0.55,-9.057602133406098,3
+Zachry Stairwell,zachry-stairwell,1000,0.6,-9.624099597957349,3
+Zachry Stairwell,zachry-stairwell,1000,0.65,-10.241440571101963,3
+Zachry Stairwell,zachry-stairwell,1000,0.7,-10.786292025811639,3
+Zachry Stairwell,zachry-stairwell,1000,0.75,-11.67778201672094,3
+Zachry Stairwell,zachry-stairwell,1000,0.8,-12.640981591148776,3
+Zachry Stairwell,zachry-stairwell,1000,0.85,-13.523333236930547,3
+Zachry Stairwell,zachry-stairwell,1000,0.9,-14.569516229042247,3
+Zachry Stairwell,zachry-stairwell,1000,0.95,-15.475936919732456,3
+Zachry Stairwell,zachry-stairwell,1000,1.0,-16.276281400904498,3
+Zachry Stairwell,zachry-stairwell,1000,1.05,-17.202417463500993,3
+Zachry Stairwell,zachry-stairwell,1000,1.1,-18.032109047968607,3
+Zachry Stairwell,zachry-stairwell,1000,1.15,-19.046779656391887,3
+Zachry Stairwell,zachry-stairwell,1000,1.2,-19.764187802909042,3
+Zachry Stairwell,zachry-stairwell,1000,1.25,-20.68074789395701,3
+Zachry Stairwell,zachry-stairwell,1000,1.3,-21.58624674729268,3
+Zachry Stairwell,zachry-stairwell,1000,1.35,-22.630827257259728,3
+Zachry Stairwell,zachry-stairwell,1000,1.4,-23.49562490094943,3
+Zachry Stairwell,zachry-stairwell,1000,1.45,-24.20807902120087,3
+Zachry Stairwell,zachry-stairwell,1000,1.5,-25.229890981980244,3
+Zachry Stairwell,zachry-stairwell,1000,1.55,-26.62567220600416,3
+Zachry Stairwell,zachry-stairwell,1000,1.6,-27.536747200115215,3
+Zachry Stairwell,zachry-stairwell,1000,1.65,-28.392319805668524,3
+Zachry Stairwell,zachry-stairwell,1000,1.7,-29.095635200703786,3
+Zachry Stairwell,zachry-stairwell,1000,1.75,-29.54152860790542,3
+Zachry Stairwell,zachry-stairwell,1000,1.8,-30.321565705195116,3
+Zachry Stairwell,zachry-stairwell,1000,1.85,-30.83278764059068,3
+Zachry Stairwell,zachry-stairwell,1000,1.9,-32.056743988922825,3
+Zachry Stairwell,zachry-stairwell,1000,1.95,-33.18364493908813,3
+Zachry Stairwell,zachry-stairwell,1000,2.0,-34.48825521226532,3
+Zachry Stairwell,zachry-stairwell,1000,2.05,-36.15397809974926,3
+Zachry Stairwell,zachry-stairwell,1000,2.1,-37.73056816946847,3
+Zachry Stairwell,zachry-stairwell,1000,2.15,-38.69493015920857,3
+Zachry Stairwell,zachry-stairwell,1000,2.2,-39.92539885766986,3
+Zachry Stairwell,zachry-stairwell,1000,2.25,-41.238170841879366,3
+Zachry Stairwell,zachry-stairwell,1000,2.3,-42.550021600563326,2
+Zachry Stairwell,zachry-stairwell,1000,2.35,-45.55445801796225,2
+Zachry Stairwell,zachry-stairwell,1000,2.4,-46.375683169401455,1
+Zachry Stairwell,zachry-stairwell,1000,2.45,-49.26053519618368,1
+Zachry Stairwell,zachry-stairwell,2000,0.0,0.0,3
+Zachry Stairwell,zachry-stairwell,2000,0.05,-0.6260212935080834,3
+Zachry Stairwell,zachry-stairwell,2000,0.1,-1.6835112342009018,3
+Zachry Stairwell,zachry-stairwell,2000,0.15,-2.8316725131274154,3
+Zachry Stairwell,zachry-stairwell,2000,0.2,-4.103454606626029,3
+Zachry Stairwell,zachry-stairwell,2000,0.25,-5.593234039620921,3
+Zachry Stairwell,zachry-stairwell,2000,0.3,-6.823023453826612,3
+Zachry Stairwell,zachry-stairwell,2000,0.35,-7.839630483456923,3
+Zachry Stairwell,zachry-stairwell,2000,0.4,-8.844244476764855,3
+Zachry Stairwell,zachry-stairwell,2000,0.45,-9.87681571993575,3
+Zachry Stairwell,zachry-stairwell,2000,0.5,-10.837543550487538,3
+Zachry Stairwell,zachry-stairwell,2000,0.55,-11.48124875255493,3
+Zachry Stairwell,zachry-stairwell,2000,0.6,-12.244289737241813,3
+Zachry Stairwell,zachry-stairwell,2000,0.65,-12.959865657690228,3
+Zachry Stairwell,zachry-stairwell,2000,0.7,-13.665159365487336,3
+Zachry Stairwell,zachry-stairwell,2000,0.75,-14.258420810834288,3
+Zachry Stairwell,zachry-stairwell,2000,0.8,-14.992864848408232,3
+Zachry Stairwell,zachry-stairwell,2000,0.85,-15.773539928949221,3
+Zachry Stairwell,zachry-stairwell,2000,0.9,-16.56558268707301,3
+Zachry Stairwell,zachry-stairwell,2000,0.95,-17.52937860819826,3
+Zachry Stairwell,zachry-stairwell,2000,1.0,-18.660027052000064,3
+Zachry Stairwell,zachry-stairwell,2000,1.05,-19.49269736367992,3
+Zachry Stairwell,zachry-stairwell,2000,1.1,-20.402999564192925,3
+Zachry Stairwell,zachry-stairwell,2000,1.15,-21.223723266707573,3
+Zachry Stairwell,zachry-stairwell,2000,1.2,-22.130271224499015,3
+Zachry Stairwell,zachry-stairwell,2000,1.25,-23.139554514021295,3
+Zachry Stairwell,zachry-stairwell,2000,1.3,-24.47059650870708,3
+Zachry Stairwell,zachry-stairwell,2000,1.35,-25.576316861617002,3
+Zachry Stairwell,zachry-stairwell,2000,1.4,-26.3729112379689,3
+Zachry Stairwell,zachry-stairwell,2000,1.45,-27.337099046513725,3
+Zachry Stairwell,zachry-stairwell,2000,1.5,-28.197416661885775,3
+Zachry Stairwell,zachry-stairwell,2000,1.55,-29.351478019935,3
+Zachry Stairwell,zachry-stairwell,2000,1.6,-30.44087928238038,3
+Zachry Stairwell,zachry-stairwell,2000,1.65,-31.825087941269807,3
+Zachry Stairwell,zachry-stairwell,2000,1.7,-32.844269398894255,3
+Zachry Stairwell,zachry-stairwell,2000,1.75,-33.888160002815106,3
+Zachry Stairwell,zachry-stairwell,2000,1.8,-34.89731673775503,3
+Zachry Stairwell,zachry-stairwell,2000,1.85,-35.91863996363467,3
+Zachry Stairwell,zachry-stairwell,2000,1.9,-36.8679697956006,3
+Zachry Stairwell,zachry-stairwell,2000,1.95,-37.87944451818226,3
+Zachry Stairwell,zachry-stairwell,2000,2.0,-38.841253521030595,3
+Zachry Stairwell,zachry-stairwell,2000,2.05,-39.617243074974084,3
+Zachry Stairwell,zachry-stairwell,2000,2.1,-40.75545514454868,3
+Zachry Stairwell,zachry-stairwell,2000,2.15,-41.92671620616005,3
+Zachry Stairwell,zachry-stairwell,2000,2.2,-42.828290768816615,3
+Zachry Stairwell,zachry-stairwell,2000,2.25,-45.48835047463716,3
+Zachry Stairwell,zachry-stairwell,2000,2.3,-48.8665600626258,3
+Zachry Stairwell,zachry-stairwell,2000,2.35,-49.657761525282936,2
+Zachry Stairwell,zachry-stairwell,2000,2.4,-51.9597114425417,2
+Zachry Stairwell,zachry-stairwell,2000,2.45,-48.32065329466459,1
+Zachry Stairwell,zachry-stairwell,2000,2.5,-50.174623804323346,1
+Zachry Stairwell,zachry-stairwell,2000,2.55,-51.84166304412038,1
+Zachry Stairwell,zachry-stairwell,4000,0.0,0.0,3
+Zachry Stairwell,zachry-stairwell,4000,0.05,-0.8214276994365483,3
+Zachry Stairwell,zachry-stairwell,4000,0.1,-2.042859193231229,3
+Zachry Stairwell,zachry-stairwell,4000,0.15,-3.3519289389604143,3
+Zachry Stairwell,zachry-stairwell,4000,0.2,-4.711537346973524,3
+Zachry Stairwell,zachry-stairwell,4000,0.25,-6.082008307203022,3
+Zachry Stairwell,zachry-stairwell,4000,0.3,-7.347721168758527,3
+Zachry Stairwell,zachry-stairwell,4000,0.35,-8.490383634907422,3
+Zachry Stairwell,zachry-stairwell,4000,0.4,-9.608175681844093,3
+Zachry Stairwell,zachry-stairwell,4000,0.45,-10.695316960845368,3
+Zachry Stairwell,zachry-stairwell,4000,0.5,-11.744763365136844,3
+Zachry Stairwell,zachry-stairwell,4000,0.55,-12.740097919763953,3
+Zachry Stairwell,zachry-stairwell,4000,0.6,-13.626004236682984,3
+Zachry Stairwell,zachry-stairwell,4000,0.65,-14.635360036181295,3
+Zachry Stairwell,zachry-stairwell,4000,0.7,-15.334305055579526,3
+Zachry Stairwell,zachry-stairwell,4000,0.75,-16.23708166474674,3
+Zachry Stairwell,zachry-stairwell,4000,0.8,-17.39753287626252,3
+Zachry Stairwell,zachry-stairwell,4000,0.85,-18.743433388370487,3
+Zachry Stairwell,zachry-stairwell,4000,0.9,-20.101577659925276,3
+Zachry Stairwell,zachry-stairwell,4000,0.95,-21.39504391172942,3
+Zachry Stairwell,zachry-stairwell,4000,1.0,-22.65756450157799,3
+Zachry Stairwell,zachry-stairwell,4000,1.05,-23.82460575698734,3
+Zachry Stairwell,zachry-stairwell,4000,1.1,-25.151878116899155,3
+Zachry Stairwell,zachry-stairwell,4000,1.15,-26.447400784098573,3
+Zachry Stairwell,zachry-stairwell,4000,1.2,-27.48857726563956,3
+Zachry Stairwell,zachry-stairwell,4000,1.25,-28.614859806418163,3
+Zachry Stairwell,zachry-stairwell,4000,1.3,-29.956556272875034,3
+Zachry Stairwell,zachry-stairwell,4000,1.35,-31.106303357207917,3
+Zachry Stairwell,zachry-stairwell,4000,1.4,-32.48825505910135,3
+Zachry Stairwell,zachry-stairwell,4000,1.45,-33.71967937325121,3
+Zachry Stairwell,zachry-stairwell,4000,1.5,-33.92897134846024,2
+Zachry Stairwell,zachry-stairwell,4000,1.55,-35.1267080815354,2
+Zachry Stairwell,zachry-stairwell,4000,1.6,-36.316675234674655,2
+Zachry Stairwell,zachry-stairwell,4000,1.65,-37.568320970523445,2
+Zachry Stairwell,zachry-stairwell,4000,1.7,-38.85853398147107,2
+Zachry Stairwell,zachry-stairwell,4000,1.75,-40.27238669808186,2
+Zachry Stairwell,zachry-stairwell,4000,1.8,-41.50354813873632,2
+Zachry Stairwell,zachry-stairwell,4000,1.85,-43.03935242378781,2
+Zachry Stairwell,zachry-stairwell,4000,1.9,-44.72240066845313,2
+Zachry Stairwell,zachry-stairwell,4000,1.95,-46.985458498086984,2
+Zachry Stairwell,zachry-stairwell,4000,2.0,-49.30956208097484,2
+Zachry Stairwell,zachry-stairwell,4000,2.05,-52.99049878515446,2
+Zachry Stairwell,zachry-stairwell,4000,2.1,-53.197355705584606,1

@@ -1,0 +1,350 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>aural. — Every space has a sound</title>
+  <meta name="description" content="aural. lets you record your voice and hear how it changes across real Texas A&amp;M spaces, using handclap recordings collected by our team for TAMU Datathon 2026.">
+  <meta name="theme-color" content="#F7F4EE">
+  <meta property="og:title" content="aural. — Every space has a sound">
+  <meta property="og:description" content="Record a sound, choose a Texas A&amp;M space, and hear its acoustic signature. Built from the team's own field recordings.">
+  <meta property="og:type" content="website">
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='10' fill='%23500000'/%3E%3Ctext x='12' y='45' font-family='Georgia,serif' font-size='40' font-weight='600' fill='%23F7F4EE'%3Ea%3C/text%3E%3Ccircle cx='48' cy='42' r='4.5' fill='%23B08D57'/%3E%3C/svg%3E">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,300..700;1,9..144,300..600&family=IBM+Plex+Mono:wght@400;500&family=IBM+Plex+Sans:ital,wght@0,400;0,500;0,600;1,400&display=swap">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <a class="skip-link" href="#studio">Skip to the Studio</a>
+
+  <header class="masthead">
+    <div class="wrap masthead-inner">
+      <a class="wordmark" href="#top" aria-label="aural. home">aural<span class="wordmark-dot" aria-hidden="true">.</span></a>
+      <nav class="primary-nav" aria-label="Primary">
+        <a href="#studio" data-nav="studio">Studio</a>
+        <a href="#explore" data-nav="explore">Explore</a>
+        <a href="#science" data-nav="science">The Science</a>
+      </nav>
+    </div>
+  </header>
+
+  <main id="top">
+    <!-- Hero -->
+    <section class="hero" aria-labelledby="hero-title">
+      <div class="wrap hero-grid">
+        <h1 id="hero-title">Every space<br>has a <em>sound.</em></h1>
+        <div class="hero-side">
+          <p class="hero-lead">Discover how your voice changes across Texas&nbsp;A&amp;M. Record a sound, choose a space, and hear its acoustic signature.</p>
+          <div class="hero-actions">
+            <a class="btn btn--primary" href="#studio">Open the Studio</a>
+            <a class="text-link" href="#explore">Browse the spaces</a>
+          </div>
+          <p class="hero-facts" id="heroFacts">Built from handclap and flute recordings our team made on campus.</p>
+        </div>
+      </div>
+    </section>
+
+    <!-- Studio -->
+    <section class="studio" id="studio" aria-labelledby="studio-title">
+      <div class="wrap">
+        <header class="section-head">
+          <div>
+            <p class="kicker">The Studio</p>
+            <h2 id="studio-title">Put your voice in another room.</h2>
+            <p class="section-lead">Record or upload a short clip, then hear it through acoustic responses captured with handclaps in two real campus spaces. The result is an approximation, processed entirely in your browser.</p>
+          </div>
+          <ol class="steps" aria-label="Workflow progress">
+            <li data-step="1" class="is-current"><span class="steps-no">01</span>Capture</li>
+            <li data-step="2"><span class="steps-no">02</span>Select</li>
+            <li data-step="3"><span class="steps-no">03</span>Listen</li>
+          </ol>
+        </header>
+
+        <div class="console">
+          <!-- 01 Capture -->
+          <div class="deck deck--capture" id="captureDeck">
+            <div class="deck-head">
+              <span class="deck-no">01</span>
+              <h3>Capture</h3>
+              <span class="deck-meta mono" id="clipSpec">No audio loaded</span>
+            </div>
+
+            <div class="capture-bar">
+              <button type="button" class="btn btn--record" id="recordBtn" aria-pressed="false">
+                <span class="rec-dot" aria-hidden="true"></span><span class="btn-label">Record</span>
+              </button>
+              <label class="btn btn--quiet upload-btn" for="audioFile">Upload audio</label>
+              <input class="visually-hidden" type="file" id="audioFile" accept="audio/*,.wav,.mp3,.m4a,.aac,.ogg,.flac,.webm">
+              <p class="capture-status" id="captureStatus" role="status" aria-live="polite">Record, or upload a WAV, MP3 or M4A file. Silence at the start and end is trimmed; up to 12 seconds are used.</p>
+            </div>
+
+            <div class="player player--main" data-player="dry" data-linked>
+              <div class="wave wave--lg" data-seek tabindex="-1" role="slider" aria-label="Original recording position" aria-valuemin="0" aria-valuemax="0" aria-valuenow="0" aria-valuetext="No audio">
+                <canvas class="wave-base" aria-hidden="true"></canvas>
+                <div class="wave-fill" aria-hidden="true"><canvas></canvas></div>
+                <div class="playhead" aria-hidden="true"></div>
+                <p class="wave-empty" id="waveEmpty">Your recording will appear here. Drop an audio file anywhere on this panel.</p>
+              </div>
+              <div class="transport">
+                <button type="button" class="play" data-play aria-label="Play original recording" disabled><span class="play-icon" aria-hidden="true"></span></button>
+                <span class="transport-label" id="clipName">Original</span>
+                <span class="timecode mono" data-time>0:00.0 / 0:00.0</span>
+              </div>
+              <audio preload="auto"></audio>
+            </div>
+          </div>
+
+          <!-- 02 Select -->
+          <div class="deck deck--select">
+            <div class="deck-head">
+              <span class="deck-no">02</span>
+              <h3>Select</h3>
+            </div>
+
+            <div class="field" id="fieldA">
+              <label for="roomA"><span class="chip chip--a" aria-hidden="true">A</span>Space A</label>
+              <div class="select"><select id="roomA"></select></div>
+              <p class="field-meta mono" id="metaA"></p>
+            </div>
+            <button type="button" class="swap" id="swapBtn" aria-label="Swap space A and space B">Swap A and B</button>
+            <div class="field" id="fieldB">
+              <label for="roomB"><span class="chip chip--b" aria-hidden="true">B</span>Space B</label>
+              <div class="select"><select id="roomB"></select></div>
+              <p class="field-meta mono" id="metaB"></p>
+            </div>
+
+            <div class="field field--range">
+              <div class="range-head">
+                <label for="wetness">Room effect</label>
+                <output class="mono" id="wetValue" for="wetness">75%</output>
+              </div>
+              <input type="range" id="wetness" min="0" max="100" step="1" value="75" aria-describedby="wetHelp">
+              <div class="range-ends" id="wetHelp"><span>Dry voice</span><span>Full room</span></div>
+            </div>
+
+            <button type="button" class="btn btn--primary btn--block" id="renderBtn">Generate A/B comparison</button>
+            <p class="render-status" id="renderStatus" role="status" aria-live="polite" data-tone="idle">Add a recording to begin.</p>
+          </div>
+        </div>
+
+        <!-- 03 Listen -->
+        <div class="listen">
+          <div class="deck-head deck-head--listen">
+            <span class="deck-no">03</span>
+            <h3>Listen</h3>
+            <p class="deck-note">Switching between A and B keeps your place in the clip, so you can compare the same moment.</p>
+          </div>
+
+          <div class="tracks">
+            <article class="track" data-player="A" data-linked data-slot="A">
+              <header class="track-head">
+                <span class="chip chip--a" aria-hidden="true">A</span>
+                <div class="track-title"><h4 id="trackAName">—</h4><p class="mono" id="trackAMeta"></p></div>
+                <button type="button" class="btn btn--quiet btn--small" id="downloadA" disabled>Download WAV</button>
+              </header>
+              <div class="wave wave--sm" data-seek tabindex="-1" role="slider" aria-label="Space A result position" aria-valuemin="0" aria-valuemax="0" aria-valuenow="0" aria-valuetext="Not generated">
+                <canvas class="wave-base" aria-hidden="true"></canvas>
+                <div class="wave-fill" aria-hidden="true"><canvas></canvas></div>
+                <div class="playhead" aria-hidden="true"></div>
+              </div>
+              <div class="transport">
+                <button type="button" class="play" data-play aria-label="Play space A result" disabled><span class="play-icon" aria-hidden="true"></span></button>
+                <span class="timecode mono" data-time>0:00.0 / 0:00.0</span>
+                <span class="track-stale" hidden>Settings changed — generate again</span>
+              </div>
+              <audio preload="auto"></audio>
+            </article>
+
+            <article class="track" data-player="B" data-linked data-slot="B">
+              <header class="track-head">
+                <span class="chip chip--b" aria-hidden="true">B</span>
+                <div class="track-title"><h4 id="trackBName">—</h4><p class="mono" id="trackBMeta"></p></div>
+                <button type="button" class="btn btn--quiet btn--small" id="downloadB" disabled>Download WAV</button>
+              </header>
+              <div class="wave wave--sm" data-seek tabindex="-1" role="slider" aria-label="Space B result position" aria-valuemin="0" aria-valuemax="0" aria-valuenow="0" aria-valuetext="Not generated">
+                <canvas class="wave-base" aria-hidden="true"></canvas>
+                <div class="wave-fill" aria-hidden="true"><canvas></canvas></div>
+                <div class="playhead" aria-hidden="true"></div>
+              </div>
+              <div class="transport">
+                <button type="button" class="play" data-play aria-label="Play space B result" disabled><span class="play-icon" aria-hidden="true"></span></button>
+                <span class="timecode mono" data-time>0:00.0 / 0:00.0</span>
+                <span class="track-stale" hidden>Settings changed — generate again</span>
+              </div>
+              <audio preload="auto"></audio>
+            </article>
+          </div>
+
+          <div class="compare">
+            <table class="compare-table" aria-describedby="compareNote">
+              <caption class="visually-hidden">Measured acoustic properties of space A and space B</caption>
+              <thead>
+                <tr><th scope="col">Measured property</th><th scope="col" class="col-a" id="compareHeadA">A</th><th scope="col" class="col-b" id="compareHeadB">B</th><th scope="col" class="col-note">What it means</th></tr>
+              </thead>
+              <tbody id="compareBody"></tbody>
+            </table>
+            <p class="compare-note" id="compareNote">Estimates from three handclaps recorded in each space. A dash means no reliable value could be fitted. See <a href="#method">methodology</a>.</p>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Explore -->
+    <section class="explore" id="explore" aria-labelledby="explore-title">
+      <div class="wrap">
+        <header class="section-head section-head--split">
+          <div>
+            <p class="kicker">Explore</p>
+            <h2 id="explore-title">The spaces.</h2>
+            <p class="section-lead" id="exploreLead">Every location below was recorded by our team on the Texas A&amp;M campus.</p>
+          </div>
+          <div class="segmented" role="group" aria-label="Sort spaces">
+            <button type="button" data-sort="decay" aria-pressed="true">Longest decay</button>
+            <button type="button" data-sort="short" aria-pressed="false">Shortest decay</button>
+            <button type="button" data-sort="alpha" aria-pressed="false">A–Z</button>
+          </div>
+        </header>
+
+        <div class="atlas-head" aria-hidden="true">
+          <span>No.</span><span>Space</span><span>Decay time, 500–1000 Hz</span><span>Character</span><span>Studio</span>
+        </div>
+        <ol class="atlas" id="atlas" aria-live="polite"><li class="atlas-loading">Loading recorded spaces…</li></ol>
+      </div>
+    </section>
+
+    <!-- Science -->
+    <section class="science" id="science" aria-labelledby="science-title">
+      <div class="wrap">
+        <header class="section-head section-head--split">
+          <div>
+            <p class="kicker">The Science</p>
+            <h2 id="science-title">The science of sound.</h2>
+            <p class="section-lead">When sound stops, a room keeps ringing. How long that takes, and which frequencies linger, is what makes a stairwell sound different from a meeting room.</p>
+          </div>
+          <div class="science-pick">
+            <div class="mini-field"><label for="sciA"><span class="chip chip--a" aria-hidden="true">A</span>Compare</label><div class="select select--small"><select id="sciA"></select></div></div>
+            <div class="mini-field"><label for="sciB"><span class="chip chip--b" aria-hidden="true">B</span>with</label><div class="select select--small"><select id="sciB"></select></div></div>
+          </div>
+        </header>
+
+        <div class="viz">
+          <div class="tabs" role="tablist" aria-label="Choose a visualization">
+            <button type="button" role="tab" id="tab-rt" aria-controls="vizPanel" aria-selected="true" data-tab="rt">Reverberation time</button>
+            <button type="button" role="tab" id="tab-freq" aria-controls="vizPanel" aria-selected="false" tabindex="-1" data-tab="freq">By frequency</button>
+            <button type="button" role="tab" id="tab-edc" aria-controls="vizPanel" aria-selected="false" tabindex="-1" data-tab="edc">Decay curve</button>
+          </div>
+          <div class="viz-body" id="vizPanel" role="tabpanel" aria-labelledby="tab-rt">
+            <figure class="viz-figure">
+              <canvas id="chart" role="img" aria-label="Chart"></canvas>
+              <figcaption class="viz-legend" id="chartLegend"></figcaption>
+            </figure>
+            <aside class="viz-read">
+              <h3 id="chartTitle">Reverberation time</h3>
+              <p id="chartWhat"></p>
+              <dl class="readout" id="chartReadout"></dl>
+              <p class="viz-how" id="chartHow"></p>
+            </aside>
+          </div>
+          <details class="disclosure">
+            <summary>Technical details</summary>
+            <div class="disclosure-body">
+              <dl class="tech-list">
+                <div><dt>T20</dt><dd>Slope of the Schroeder decay curve fitted between −5 and −25&nbsp;dB, extrapolated to a 60&nbsp;dB decay. The headline value averages the 500 and 1000&nbsp;Hz octave bands.</dd></div>
+                <div><dt>T30</dt><dd>Same method using −5 to −35&nbsp;dB, reported only where the recording had enough range above the noise.</dd></div>
+                <div><dt>EDT</dt><dd>Early decay time, from the −1 to −10&nbsp;dB portion of the curve, extrapolated to 60&nbsp;dB.</dd></div>
+                <div><dt>C50 / D50</dt><dd>Ratio and share of energy arriving in the first 50&nbsp;ms versus later. Higher values usually mean clearer speech.</dd></div>
+                <div><dt>Filters</dt><dd>Broadband 100–8000&nbsp;Hz third-order Butterworth; octave bands at 125–4000&nbsp;Hz, fourth-order Butterworth.</dd></div>
+                <div><dt>Fit rules</dt><dd>Fits with R² below 0.84, too few points or less than 45&nbsp;ms of span are rejected. The median of the valid claps is reported. Rejected fits stay blank and are never set to zero.</dd></div>
+              </dl>
+            </div>
+          </details>
+        </div>
+      </div>
+    </section>
+
+    <!-- Field recordings -->
+    <section class="field-section" id="field-recordings" aria-labelledby="field-title">
+      <div class="wrap field-recs">
+        <div class="field-recs-intro">
+          <p class="kicker">Field recordings</p>
+          <h2 id="field-title">Field recordings.</h2>
+          <p>A flute played in the actual rooms and captured on site. These are real recordings, not simulations, and only the spaces listed here have one. Silence before and after the music is skipped for listening; the stored files are unchanged. They were recorded with the same phone setup as the claps, but melody and dynamics were not standardised, so treat them as references, not measurements.</p>
+        </div>
+        <ul class="flute-list" id="fluteList"></ul>
+      </div>
+    </section>
+
+    <!-- Methodology -->
+    <section class="method" id="method" aria-labelledby="method-title">
+      <div class="wrap method-grid">
+        <header class="method-head">
+          <p class="kicker">Methodology</p>
+          <h2 id="method-title">From a handclap to a room.</h2>
+          <p class="section-lead">How the recordings were made, what we measured from them, and where the numbers stop being exact.</p>
+          <ul class="doc-links">
+            <li><a href="../COLLECTION-METHODOLOGY.md">Collection methodology</a></li>
+            <li><a href="../README.md">Project documentation</a></li>
+            <li><a href="../dataset/processed/locations.csv">Processed dataset (CSV)</a></li>
+            <li><a href="../dataset/processed/recording-catalog.csv">Recording inventory with checksums</a></li>
+            <li><a href="../dataset/campus-acoustics-analysis.xlsx">Analysis workbook (XLSX)</a></li>
+          </ul>
+        </header>
+
+        <div class="method-body">
+          <article>
+            <h3><span class="mono">01</span>Why we recorded</h3>
+            <p>We wanted to answer a simple question: how differently would the same voice sound in different places at Texas&nbsp;A&amp;M? Rather than borrowing published room data, the team went to campus spaces and recorded them directly. Singers, musicians, podcasters and students can use the result to preview the character of a space before going there, or to hear what reverberation does to speech, as long as they treat it as an estimate.</p>
+          </article>
+          <article>
+            <h3><span class="mono">02</span>How the claps were recorded</h3>
+            <p>On November 7, 2026, we recorded three handclaps in each of 13 spaces (39 claps, all identified by the analysis) on an Apple iPhone's built-in microphone using the Shure MOTIV app: uncompressed 48&nbsp;kHz, 24-bit, mono WAV. The phone stood still on a stand about 5&nbsp;ft (1.5&nbsp;m) from the sound source, in roughly the same arrangement everywhere, with the same settings throughout. We also recorded a flute in nine spaces with the same setup. One flute-only recording, filed as Blocker Stairwell, was made in the same stairwell as the Blocker Staircase clap recording, so the two are separate samples of one place; 14 campus locations in all. Exact positions, room dimensions and recording times were not recorded, so we don't report them.</p>
+          </article>
+          <article>
+            <h3><span class="mono">03</span>How the audio was analysed</h3>
+            <p>Each clap was located, cropped from 8&nbsp;ms before the peak, and filtered into a broad band and six octave bands. Background noise measured just before each clap was subtracted, and each response was cut off where it fell back into that noise.</p>
+          </article>
+          <article>
+            <h3><span class="mono">04</span>Schroeder backward integration</h3>
+            <p>Integrating the squared response backwards from its end gives a smooth energy-decay curve. A straight line fitted to that curve gives the decay rate, which we extrapolate to the time a sound would take to fall by 60&nbsp;dB.</p>
+          </article>
+          <article>
+            <h3><span class="mono">05</span>Frequency-dependent decay</h3>
+            <p>Repeating the fit in each octave band shows whether bass or treble lingers longer. Where a band's decay could not be fitted reliably, the value is left blank.</p>
+          </article>
+          <article>
+            <h3><span class="mono">06</span>What the simulation does</h3>
+            <p>For each space, one clap with a valid fit was cropped to 2.2&nbsp;s, gently noise-gated, faded and energy-normalised. In the Studio, silence before and after your clip is trimmed (pauses inside it are kept), then the clip is convolved with that response in your browser and mixed with the dry signal by the room-effect slider. Each result keeps the room's full decay after your last sound, and both share one gain so their loudness difference is preserved.</p>
+          </article>
+          <article class="method-caveat">
+            <h3><span class="mono">07</span>Limitations</h3>
+            <p>A handclap is not a calibrated impulse response. It has its own sound, radiates unevenly, and was recorded on a phone microphone, which is not calibrated and may apply automatic gain; keeping the settings fixed doesn't rule that out. Positions were kept roughly consistent but not measured. The simulation conveys a space's character but does not reproduce it exactly.</p>
+          </article>
+          <article class="method-caveat">
+            <h3><span class="mono">08</span>Estimates, not certified measurements</h3>
+            <p>Formal reverberation tests (ISO&nbsp;3382) use a calibrated source, controlled positions and multiple measurement points. Our T20, T30 and EDT values are exploratory estimates from handclaps, useful for comparing these spaces with each other, not as certified acoustic ratings.</p>
+          </article>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <footer class="site-foot">
+    <div class="wrap">
+      <div class="foot-grid">
+        <div class="foot-brand">
+          <a class="wordmark wordmark--foot" href="#top" aria-label="aural. back to top">aural<span class="wordmark-dot" aria-hidden="true">.</span></a>
+          <p>An acoustic exploration of Texas&nbsp;A&amp;M spaces, built from field recordings made on campus.</p>
+        </div>
+        <nav class="foot-nav" aria-label="Footer">
+          <a href="#studio">Studio</a><a href="#explore">Explore</a><a href="#science">The Science</a><a href="#field-recordings">Field recordings</a><a href="#method">Methodology</a>
+        </nav>
+        <p class="foot-note">All audio processing happens in your browser. Nothing you record is uploaded.</p>
+      </div>
+      <p class="foot-credit">Created by Aakash and Akshaj Ramesh</p>
+    </div>
+  </footer>
+
+  <script src="app.js" defer></script>
+</body>
+</html>

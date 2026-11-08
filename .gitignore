@@ -1,0 +1,30 @@
+# Python environments and bytecode
+.venv/
+venv/
+__pycache__/
+*.pyc
+*.pyo
+
+# Secrets
+.env
+.env.*
+
+# Editor caches
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+*.log
+
+# OS-generated files
+.DS_Store
+._*
+Thumbs.db
+ehthumbs.db
+desktop.ini
