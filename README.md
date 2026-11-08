@@ -1,6 +1,6 @@
 # aural.
 
-**aural.** lets you hear an approximation of how your voice would sound in real Texas A&M campus locations. Record or upload a short clip, choose two spaces, and the site plays it through acoustic responses derived from handclaps the team recorded on campus
+**aural.** lets you hear an approximation of how your voice would sound in real Texas A&M campus locations. Record or upload a short clip, choose two spaces, and the site plays it through acoustic responses derived from handclaps the team recorded on campus.
 
 **Live Website:** [https://akshajramesh.github.io/aural/](https://akshajramesh.github.io/aural/)
 
