@@ -123,7 +123,7 @@ py -m http.server 8000
 
 Then open **http://localhost:8000/app/**. Opening `index.html` directly from disk does not work, because browsers block `fetch` from `file://`. The microphone needs `localhost` or HTTPS.
 
-**Publishing (for example on GitHub Pages):** serve the repository root so that `app/` is the site path. The Methodology section links to `../README.md`, `../COLLECTION-METHODOLOGY.md` and files under `../dataset/`, so publish those too.
+**Publishing:** the site is deployed to GitHub Pages at **https://akshajramesh.github.io/aural/** by `.github/workflows/deploy-pages.yml`, which publishes only the contents of `app/` whenever `app/` changes on `main` (or when run manually from the Actions tab). The Methodology section links to the documents and datasets in this GitHub repository, so they are not copied to the site.
 
 ## 10. Limitations
 
@@ -215,6 +215,8 @@ Notes:
 ## File layout
 
 ```text
+.github/workflows/
+  deploy-pages.yml         Deploys app/ to GitHub Pages
 app/
   index.html               Studio, Explore, The Science, Field recordings, Methodology
   styles.css               Design tokens and responsive layout
